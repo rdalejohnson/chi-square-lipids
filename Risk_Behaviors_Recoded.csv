@@ -1,0 +1,1401 @@
+age,gender,year in school,where do you live,frat or soro member,activ:religion,binge drink,drug use:marijuana,drug use:cigarettes,number_of_sexual_partners,GPA,GPA Recode,Recode:marijuana,Recode:cigarettes
+21,female,senior,off-campus,no,important,none,"used, > 12mos",never used,1,A,A,Used,never used
+18,female,freshman,co-ed dorm,no,not impt,,,never used,1,C,C,,never used
+21,male,junior,co-ed dorm,no,somewhat imp,,never used,never used,,B+,B,never used,never used
+22,female,junior,off-campus,yes,somewhat imp,twice,never used,never used,1,B+,B,never used,never used
+19,female,freshman,off-campus,no,very import,none,never used,never used,,B,B,never used,never used
+22,female,junior,off-campus,yes,not impt,none,never used,used past 30d,1,D,D,never used,Current User
+21,female,junior,frat/sorority,yes,important,none,never used,never used,0,B,B,never used,never used
+26,female,=> 5th yr,off-campus,no,somewhat imp,none,never used,never used,1,B,B,never used,never used
+22,female,junior,off-campus,no,not impt,none,never used,"used, > 30day",1,A-,A,never used,Current User
+20,female,junior,1 sex dorm,no,somewhat imp,none,never used,never used,,A-,A,never used,never used
+19,male,freshman,1 sex dorm,no,not impt,none,never used,never used,1,A,A,never used,never used
+19,female,freshman,1 sex dorm,no,important,twice,never used,never used,,A-,A,never used,never used
+20,male,junior,off-campus,no,not impt,once,"used, > 30day",never used,0,B,B,Used,never used
+20,female,junior,off-campus,yes,somewhat imp,none,never used,"used, > 30day",0,B,B,never used,Current User
+21,male,junior,off-campus,no,not impt,once,"used, > 12mos",never used,0,B,B,Used,never used
+26,female,=> 5th yr,off-campus,no,not impt,none,never used,never used,1,C+,C,never used,never used
+18,female,freshman,1 sex dorm,no,somewhat imp,once,"used, > 12mos",never used,0,B,B,Used,never used
+20,female,junior,off-campus,no,very import,none,never used,never used,1,A-,A,never used,never used
+19,male,sophomore,1 sex dorm,no,somewhat imp,once,never used,never used,2 or more,C-,C,never used,never used
+20,female,junior,co-ed dorm,yes,important,once,never used,never used,1,B-,B,never used,never used
+20,female,sophomore,off-campus,yes,important,none,never used,used past 30d,1,C,C,never used,Current User
+21,female,senior,1 sex dorm,no,very import,6-9 times,"used, > 30day",used past 30d,1,B-,B,Used,Current User
+22,female,senior,off-campus,no,very import,none,never used,never used,0,B-,B,never used,never used
+20,female,junior,off-campus,no,very import,none,never used,never used,1,B,B,never used,never used
+24,female,junior,off-campus,no,somewhat imp,none,never used,never used,0,A,A,never used,never used
+18,female,freshman,co-ed dorm,yes,somewhat imp,twice,used past 30d,"used, > 30day",1,B+,B,Used,Current User
+22,male,junior,off-campus,no,important,once,"used, > 12mos",never used,1,C+,C,Used,never used
+26,female,senior,off-campus,no,very import,none,never used,never used,1,A-,A,never used,never used
+20,female,junior,frat/sorority,yes,not impt,once,never used,never used,1,B+,B,never used,never used
+20,female,sophomore,off-campus,yes,important,none,never used,never used,1,B,B,never used,never used
+20,female,junior,co-ed dorm,no,not impt,once,never used,"used, > 12mos",1,B+,B,never used,Previous User
+26,male,junior,off-campus,no,not impt,none,"used, > 12mos",never used,1,A,A,Used,never used
+20,female,sophomore,off-campus,no,very import,none,never used,"used, > 30day",,A-,A,never used,Current User
+20,female,junior,off-campus,no,somewhat imp,once,never used,never used,1,A-,A,never used,never used
+22,female,=> 5th yr,off-campus,no,somewhat imp,none,never used,never used,,A-,A,never used,never used
+20,female,junior,co-ed dorm,no,very import,none,never used,never used,,B+,B,never used,never used
+23,female,=> 5th yr,1 sex dorm,no,very import,none,never used,never used,,"no grade, dk",,never used,never used
+23,female,=> 5th yr,off-campus,no,important,twice,never used,never used,0,B,B,never used,never used
+24,female,senior,off-campus,no,not impt,none,never used,used past 30d,2 or more,B+,B,never used,Current User
+26,female,junior,off-campus,no,not impt,none,never used,never used,1,A-,A,never used,never used
+21,female,senior,1 sex dorm,no,not impt,once,never used,"used, > 12mos",0,B+,B,never used,Previous User
+20,male,sophomore,frat/sorority,yes,not impt,twice,never used,never used,0,B-,B,never used,never used
+18,female,freshman,1 sex dorm,yes,important,3-5 times,"used, > 30day",used past 30d,1,C,C,Used,Current User
+20,male,junior,co-ed dorm,no,not impt,none,never used,never used,1,B+,B,never used,never used
+19,male,sophomore,co-ed dorm,no,not impt,none,never used,never used,0,B+,B,never used,never used
+18,male,freshman,co-ed dorm,no,not impt,none,never used,never used,,B,B,never used,never used
+20,female,junior,1 sex dorm,no,important,none,used past 30d,"used, > 12mos",1,B+,B,Used,Previous User
+21,female,junior,frat/sorority,yes,somewhat imp,once,"used, > 12mos","used, > 12mos",2 or more,A-,A,Used,Previous User
+22,male,junior,off-campus,no,not impt,none,"used, > 12mos",never used,1,B,B,Used,never used
+19,female,sophomore,co-ed dorm,no,very import,twice,"used, > 12mos",used past 30d,,B-,B,Used,Current User
+23,male,=> 5th yr,off-campus,no,somewhat imp,twice,"used, > 30day",used past 30d,0,B+,B,Used,Current User
+19,female,sophomore,1 sex dorm,no,important,twice,never used,"used, > 12mos",2 or more,B,B,never used,Previous User
+19,female,junior,oth univ hsg,no,very import,none,never used,never used,,B,B,never used,never used
+19,female,sophomore,off-campus,no,somewhat imp,none,never used,never used,0,B,B,never used,never used
+18,female,freshman,off-campus,no,very import,none,never used,never used,,A,A,never used,never used
+21,male,senior,off-campus,no,important,none,"used, > 12mos",never used,1,B+,B,Used,never used
+21,female,senior,off-campus,no,important,none,never used,never used,,A,A,never used,never used
+20,female,sophomore,oth univ hsg,no,very import,none,never used,"used, > 30day",1,A,A,never used,Current User
+25,male,=> 5th yr,off-campus,no,important,twice,"used, > 12mos",used past 30d,1,C,C,Used,Current User
+26,female,=> 5th yr,off-campus,no,not impt,none,used past 30d,used past 30d,2 or more,A-,A,Used,Current User
+24,male,senior,off-campus,no,not impt,none,never used,never used,2 or more,C+,C,never used,never used
+21,female,junior,off-campus,no,very import,none,never used,never used,1,B-,B,never used,never used
+21,male,senior,co-ed dorm,no,somewhat imp,3-5 times,"used, > 30day","used, > 12mos",1,B,B,Used,Previous User
+18,male,freshman,off-campus,no,not impt,3-5 times,"used, > 30day",used past 30d,0,B-,B,Used,Current User
+26,female,senior,oth univ hsg,no,not impt,none,"used, > 12mos",never used,1,B,B,Used,never used
+19,male,sophomore,co-ed dorm,no,not impt,once,"used, > 12mos","used, > 12mos",0,B,B,Used,Previous User
+26,female,junior,off-campus,no,not impt,none,"used, > 12mos","used, > 12mos",0,B+,B,Used,Previous User
+22,female,senior,off-campus,no,important,none,never used,never used,,A-,A,never used,never used
+19,male,sophomore,off-campus,no,not impt,none,never used,never used,1,B,B,never used,never used
+20,male,sophomore,off-campus,no,somewhat imp,6-9 times,never used,never used,1,C,C,never used,never used
+26,male,junior,off-campus,yes,somewhat imp,none,never used,never used,,A-,A,never used,never used
+24,female,=> 5th yr,off-campus,yes,very import,none,never used,never used,1,B+,B,never used,never used
+21,female,senior,1 sex dorm,no,not impt,none,never used,never used,1,C+,C,never used,never used
+19,female,freshman,co-ed dorm,no,not impt,none,never used,"used, > 12mos",,A,A,never used,Previous User
+20,female,junior,off-campus,no,somewhat imp,3-5 times,"used, > 30day","used, > 12mos",1,A-,A,Used,Previous User
+18,male,sophomore,co-ed dorm,no,not impt,twice,used past 30d,used past 30d,0,B+,B,Used,Current User
+21,female,junior,off-campus,no,very import,none,never used,"used, > 12mos",1,B-,B,never used,Previous User
+26,male,junior,off-campus,no,important,none,never used,never used,,A-,A,never used,never used
+20,male,junior,off-campus,no,not impt,6-9 times,"used, > 30day",used past 30d,0,B,B,Used,Current User
+19,male,sophomore,1 sex dorm,no,not impt,6-9 times,never used,used past 30d,1,B-,B,never used,Current User
+23,female,senior,oth univ hsg,no,not impt,none,never used,never used,1,A,A,never used,never used
+18,male,freshman,off-campus,no,not impt,3-5 times,"used, > 30day",never used,2 or more,B+,B,Used,never used
+21,female,senior,off-campus,no,important,none,never used,never used,,B,B,never used,never used
+21,male,junior,off-campus,no,not impt,none,never used,never used,1,B,B,never used,never used
+23,female,sophomore,off-campus,no,very import,none,"used, > 12mos",never used,1,C+,C,Used,never used
+19,male,sophomore,off-campus,no,not impt,none,"used, > 12mos",never used,0,B+,B,Used,never used
+19,male,sophomore,off-campus,no,not impt,none,never used,never used,1,C+,C,never used,never used
+19,male,freshman,off-campus,no,somewhat imp,none,never used,never used,0,B+,B,never used,never used
+22,female,senior,off-campus,no,very import,none,never used,"used, > 30day",1,A-,A,never used,Current User
+22,female,=> 5th yr,off-campus,no,not impt,none,"used, > 12mos","used, > 12mos",0,C-,C,Used,Previous User
+23,female,senior,off-campus,no,somewhat imp,none,never used,never used,1,B+,B,never used,never used
+20,female,junior,oth univ hsg,no,not impt,twice,used past 30d,used past 30d,2 or more,"no grade, dk",,Used,Current User
+23,female,=> 5th yr,off-campus,no,not impt,none,never used,"used, > 12mos",1,A,A,never used,Previous User
+26,male,junior,off-campus,no,not impt,none,"used, > 12mos","used, > 30day",1,B+,B,Used,Current User
+19,female,sophomore,co-ed dorm,yes,somewhat imp,6-9 times,used past 30d,used past 30d,,B+,B,Used,Current User
+23,female,sophomore,off-campus,no,very import,none,never used,never used,1,C+,C,never used,never used
+20,female,junior,off-campus,no,somewhat imp,none,never used,never used,,A,A,never used,never used
+23,male,senior,off-campus,no,important,3-5 times,never used,never used,0,B+,B,never used,never used
+18,female,freshman,off-campus,no,important,none,never used,never used,1,A,A,never used,never used
+23,male,=> 5th yr,off-campus,no,somewhat imp,6-9 times,"used, > 12mos","used, > 30day",2 or more,B+,B,Used,Current User
+22,female,=> 5th yr,off-campus,no,somewhat imp,none,never used,never used,,A,A,never used,never used
+18,male,freshman,1 sex dorm,no,important,none,never used,never used,,B-,B,never used,never used
+18,female,freshman,off-campus,no,very import,none,never used,never used,1,B+,B,never used,never used
+21,female,junior,off-campus,no,somewhat imp,none,"used, > 12mos","used, > 12mos",1,C+,C,Used,Previous User
+22,female,=> 5th yr,off-campus,no,not impt,none,never used,never used,1,B-,B,never used,never used
+19,female,freshman,1 sex dorm,no,somewhat imp,3-5 times,"used, > 12mos","used, > 30day",1,B,B,Used,Current User
+19,female,freshman,co-ed dorm,no,somewhat imp,twice,never used,never used,,A-,A,never used,never used
+21,female,sophomore,off-campus,no,somewhat imp,,used past 30d,used past 30d,1,B,B,Used,Current User
+26,male,=> 5th yr,off-campus,no,not impt,once,"used, > 12mos","used, > 12mos",1,B+,B,Used,Previous User
+19,female,sophomore,frat/sorority,yes,important,none,"used, > 30day",never used,1,B,B,Used,never used
+23,female,senior,off-campus,no,very import,none,never used,never used,,A-,A,never used,never used
+21,male,senior,frat/sorority,yes,not impt,none,never used,"used, > 12mos",1,A,A,never used,Previous User
+18,female,freshman,co-ed dorm,no,very import,none,never used,never used,,A-,A,never used,never used
+20,female,freshman,1 sex dorm,no,important,none,never used,never used,1,B,B,never used,never used
+21,female,junior,off-campus,no,not impt,none,never used,never used,0,A-,A,never used,never used
+23,male,=> 5th yr,off-campus,yes,not impt,3-5 times,used past 30d,"used, > 12mos",1,B,B,Used,Previous User
+21,female,senior,off-campus,no,not impt,none,never used,never used,,"no grade, dk",,never used,never used
+20,male,freshman,1 sex dorm,no,somewhat imp,once,never used,never used,2 or more,C+,C,never used,never used
+26,female,senior,off-campus,no,important,none,never used,used past 30d,0,A,A,never used,Current User
+20,female,junior,off-campus,no,somewhat imp,none,"used, > 12mos","used, > 12mos",1,A-,A,Used,Previous User
+21,female,junior,off-campus,yes,not impt,6-9 times,never used,"used, > 30day",1,B-,B,never used,Current User
+23,male,junior,off-campus,no,not impt,twice,"used, > 30day",never used,0,B-,B,Used,never used
+22,male,=> 5th yr,off-campus,no,important,none,never used,never used,,B+,B,never used,never used
+24,male,junior,off-campus,no,not impt,10 or more x,used past 30d,used past 30d,1,C-,C,Used,Current User
+21,female,senior,off-campus,no,not impt,none,never used,"used, > 30day",1,A-,A,never used,Current User
+22,male,senior,off-campus,no,very import,none,never used,never used,,B,B,never used,never used
+21,female,senior,off-campus,no,not impt,none,never used,used past 30d,0,B+,B,never used,Current User
+21,male,junior,off-campus,no,not impt,none,"used, > 30day",never used,1,C+,C,Used,never used
+22,female,sophomore,off-campus,no,not impt,3-5 times,"used, > 30day",used past 30d,2 or more,A-,A,Used,Current User
+19,male,freshman,co-ed dorm,no,important,none,never used,never used,0,B,B,never used,never used
+26,male,=> 5th yr,off-campus,no,not impt,none,"used, > 30day",never used,1,A,A,Used,never used
+19,female,sophomore,off-campus,yes,somewhat imp,none,never used,"used, > 12mos",1,B,B,never used,Previous User
+19,male,sophomore,1 sex dorm,no,somewhat imp,once,never used,used past 30d,,B,B,never used,Current User
+21,female,junior,off-campus,no,somewhat imp,none,never used,never used,1,B+,B,never used,never used
+26,male,junior,co-ed dorm,no,not impt,none,"used, > 30day","used, > 30day",,A,A,Used,Current User
+19,male,freshman,off-campus,no,very import,none,never used,never used,2 or more,B,B,never used,never used
+21,male,junior,off-campus,no,somewhat imp,once,"used, > 12mos","used, > 12mos",1,A,A,Used,Previous User
+18,female,freshman,oth univ hsg,no,important,none,never used,never used,,B+,B,never used,never used
+20,female,sophomore,off-campus,yes,not impt,none,never used,never used,0,A-,A,never used,never used
+21,female,senior,off-campus,no,very import,none,never used,never used,1,A,A,never used,never used
+21,male,senior,off-campus,no,not impt,none,never used,never used,0,A,A,never used,never used
+22,male,=> 5th yr,off-campus,no,not impt,none,"used, > 30day","used, > 12mos",1,B+,B,Used,Previous User
+22,female,=> 5th yr,off-campus,no,somewhat imp,none,"used, > 30day","used, > 30day",1,B,B,Used,Current User
+19,female,sophomore,co-ed dorm,no,somewhat imp,none,never used,never used,0,B,B,never used,never used
+23,female,sophomore,off-campus,no,not impt,none,"used, > 12mos",never used,1,B+,B,Used,never used
+23,male,senior,off-campus,no,not impt,none,"used, > 30day",used past 30d,0,C-,C,Used,Current User
+26,female,=> 5th yr,off-campus,no,not impt,none,"used, > 12mos",never used,2 or more,A,A,Used,never used
+21,male,junior,off-campus,no,somewhat imp,3-5 times,"used, > 12mos",used past 30d,1,B,B,Used,Current User
+18,female,freshman,off-campus,no,very import,none,never used,never used,,,,never used,never used
+26,female,senior,off-campus,no,not impt,none,"used, > 30day",used past 30d,1,A,A,Used,Current User
+21,male,junior,off-campus,no,somewhat imp,twice,never used,"used, > 30day",1,B+,B,never used,Current User
+21,female,junior,off-campus,no,very import,6-9 times,"used, > 12mos",used past 30d,1,B-,B,Used,Current User
+21,male,junior,off-campus,no,not impt,once,never used,"used, > 12mos",0,C+,C,never used,Previous User
+18,female,freshman,1 sex dorm,no,very import,none,never used,never used,1,C+,C,never used,never used
+21,male,junior,1 sex dorm,no,somewhat imp,none,never used,never used,1,C,C,never used,never used
+24,female,=> 5th yr,off-campus,no,somewhat imp,twice,never used,"used, > 12mos",1,B-,B,never used,Previous User
+23,female,=> 5th yr,off-campus,yes,somewhat imp,once,"used, > 30day","used, > 12mos",1,C,C,Used,Previous User
+19,female,freshman,co-ed dorm,no,important,none,"used, > 30day","used, > 12mos",0,C+,C,Used,Previous User
+19,male,sophomore,off-campus,no,important,twice,used past 30d,used past 30d,2 or more,B-,B,Used,Current User
+20,female,junior,1 sex dorm,no,somewhat imp,none,never used,never used,1,B,B,never used,never used
+21,female,senior,off-campus,no,somewhat imp,none,used past 30d,used past 30d,1,B,B,Used,Current User
+19,male,sophomore,off-campus,no,very import,twice,never used,never used,,B+,B,never used,never used
+22,female,=> 5th yr,off-campus,no,somewhat imp,none,never used,"used, > 12mos",1,A-,A,never used,Previous User
+20,female,junior,co-ed dorm,no,somewhat imp,once,"used, > 30day","used, > 30day",0,B-,B,Used,Current User
+20,female,sophomore,off-campus,yes,not impt,3-5 times,used past 30d,used past 30d,1,B-,B,Used,Current User
+21,male,senior,co-ed dorm,no,not impt,none,never used,never used,,A,A,never used,never used
+23,female,junior,off-campus,no,not impt,once,"used, > 12mos",used past 30d,1,B+,B,Used,Current User
+26,female,junior,off-campus,no,not impt,none,never used,never used,1,B,B,never used,never used
+20,female,junior,off-campus,no,very import,3-5 times,never used,"used, > 30day",0,B,B,never used,Current User
+21,female,junior,off-campus,no,somewhat imp,none,never used,never used,1,A-,A,never used,never used
+21,female,senior,oth univ hsg,no,somewhat imp,none,"used, > 30day",never used,1,B,B,Used,never used
+18,female,freshman,1 sex dorm,no,somewhat imp,none,"used, > 12mos","used, > 30day",1,A-,A,Used,Current User
+26,female,sophomore,off-campus,no,not impt,none,,never used,,B-,B,,never used
+26,female,senior,off-campus,no,very import,none,never used,"used, > 12mos",1,B+,B,never used,Previous User
+20,female,junior,off-campus,no,not impt,none,never used,never used,,B+,B,never used,never used
+21,male,senior,1 sex dorm,no,not impt,3-5 times,used past 30d,never used,2 or more,B+,B,Used,never used
+26,female,=> 5th yr,off-campus,no,not impt,none,never used,never used,1,B,B,never used,never used
+20,female,junior,frat/sorority,yes,very import,twice,"used, > 12mos",never used,1,A-,A,Used,never used
+20,female,sophomore,1 sex dorm,no,very import,none,never used,never used,0,A-,A,never used,never used
+26,male,sophomore,off-campus,no,not impt,none,never used,never used,1,A,A,never used,never used
+21,female,junior,off-campus,no,very import,none,never used,never used,1,B-,B,never used,never used
+26,female,senior,off-campus,yes,not impt,none,"used, > 12mos",never used,0,A-,A,Used,never used
+23,male,=> 5th yr,off-campus,no,not impt,3-5 times,"used, > 30day",never used,1,B,B,Used,never used
+19,female,sophomore,off-campus,no,not impt,none,never used,never used,1,C+,C,never used,never used
+26,female,junior,off-campus,no,important,none,never used,never used,1,B+,B,never used,never used
+26,female,senior,off-campus,no,somewhat imp,once,"used, > 12mos",used past 30d,1,A-,A,Used,Current User
+25,female,senior,off-campus,no,somewhat imp,none,never used,never used,0,C+,C,never used,never used
+20,female,sophomore,off-campus,no,important,twice,never used,"used, > 30day",1,B+,B,never used,Current User
+25,female,sophomore,off-campus,no,not impt,once,never used,never used,0,B,B,never used,never used
+20,female,junior,co-ed dorm,no,very import,none,"used, > 12mos",used past 30d,1,B,B,Used,Current User
+19,female,freshman,co-ed dorm,no,very import,none,"used, > 12mos",used past 30d,1,B+,B,Used,Current User
+21,female,senior,off-campus,no,somewhat imp,none,"used, > 12mos",never used,1,B+,B,Used,never used
+22,male,senior,off-campus,yes,not impt,3-5 times,"used, > 30day",used past 30d,0,B+,B,Used,Current User
+21,male,junior,off-campus,no,somewhat imp,3-5 times,never used,never used,1,B-,B,never used,never used
+24,male,senior,off-campus,no,important,none,never used,never used,,B,B,never used,never used
+21,male,junior,co-ed dorm,no,somewhat imp,none,"used, > 30day",never used,0,C+,C,Used,never used
+18,female,freshman,co-ed dorm,no,somewhat imp,twice,used past 30d,used past 30d,1,B,B,Used,Current User
+26,male,junior,off-campus,no,important,none,never used,used past 30d,1,"no grade, dk",,never used,Current User
+19,female,junior,off-campus,no,somewhat imp,none,"used, > 12mos",never used,1,B,B,Used,never used
+22,female,senior,off-campus,no,somewhat imp,none,never used,"used, > 12mos",1,B,B,never used,Previous User
+18,male,freshman,co-ed dorm,no,somewhat imp,3-5 times,never used,never used,0,B-,B,never used,never used
+23,male,senior,off-campus,yes,not impt,10 or more x,"used, > 30day",used past 30d,1,B+,B,Used,Current User
+19,male,freshman,1 sex dorm,yes,not impt,once,never used,never used,1,B-,B,never used,never used
+22,male,=> 5th yr,off-campus,no,important,none,never used,"used, > 30day",0,B,B,never used,Current User
+21,female,junior,off-campus,no,not impt,none,never used,never used,1,B+,B,never used,never used
+26,male,senior,off-campus,no,not impt,none,never used,never used,2 or more,B+,B,never used,never used
+20,female,junior,off-campus,yes,somewhat imp,none,never used,never used,1,B,B,never used,never used
+20,female,junior,off-campus,no,not impt,3-5 times,"used, > 30day",never used,1,B,B,Used,never used
+20,male,junior,co-ed dorm,no,somewhat imp,none,never used,never used,,B-,B,never used,never used
+22,male,senior,frat/sorority,yes,,twice,used past 30d,"used, > 12mos",1,B+,B,Used,Previous User
+22,female,junior,off-campus,no,somewhat imp,none,never used,never used,1,C+,C,never used,never used
+20,female,sophomore,oth univ hsg,no,not impt,none,never used,never used,1,B,B,never used,never used
+22,female,senior,off-campus,no,somewhat imp,3-5 times,used past 30d,used past 30d,0,B,B,Used,Current User
+19,female,sophomore,co-ed dorm,no,very import,none,never used,never used,1,B+,B,never used,never used
+19,female,sophomore,off-campus,no,somewhat imp,none,never used,never used,0,B+,B,never used,never used
+21,female,junior,off-campus,no,very import,once,used past 30d,"used, > 12mos",1,B+,B,Used,Previous User
+20,female,sophomore,co-ed dorm,no,somewhat imp,none,never used,never used,,B+,B,never used,never used
+18,female,freshman,oth univ hsg,no,somewhat imp,once,never used,"used, > 30day",,B,B,never used,Current User
+20,female,junior,frat/sorority,yes,very import,none,never used,never used,,A-,A,never used,never used
+22,female,senior,off-campus,no,important,none,never used,never used,,A-,A,never used,never used
+22,male,junior,co-ed dorm,no,not impt,none,"used, > 30day",never used,0,B+,B,Used,never used
+21,male,senior,co-ed dorm,no,very import,none,never used,never used,0,A,A,never used,never used
+19,female,sophomore,1 sex dorm,yes,not impt,once,never used,never used,,B+,B,never used,never used
+19,female,junior,off-campus,no,important,none,never used,never used,,B,B,never used,never used
+19,female,sophomore,off-campus,no,not impt,none,never used,never used,,B,B,never used,never used
+19,female,freshman,off-campus,no,not impt,3-5 times,used past 30d,used past 30d,,B,B,Used,Current User
+18,female,freshman,1 sex dorm,yes,somewhat imp,3-5 times,"used, > 30day",used past 30d,0,B+,B,Used,Current User
+21,female,senior,off-campus,no,somewhat imp,none,"used, > 30day","used, > 30day",1,B+,B,Used,Current User
+24,male,freshman,off-campus,no,somewhat imp,none,never used,never used,1,B,B,never used,never used
+19,female,freshman,co-ed dorm,no,important,once,"used, > 30day",used past 30d,1,B,B,Used,Current User
+21,male,junior,co-ed dorm,no,not impt,6-9 times,used past 30d,used past 30d,2 or more,B,B,Used,Current User
+20,female,sophomore,frat/sorority,yes,very import,once,never used,never used,0,B,B,never used,never used
+20,male,junior,off-campus,no,not impt,3-5 times,never used,used past 30d,0,A-,A,never used,Current User
+20,male,junior,off-campus,no,not impt,10 or more x,used past 30d,"used, > 12mos",,"no grade, dk",,Used,Previous User
+20,female,junior,frat/sorority,yes,important,twice,used past 30d,used past 30d,1,"no grade, dk",,Used,Current User
+17,female,freshman,off-campus,no,important,3-5 times,never used,never used,1,B+,B,never used,never used
+23,female,junior,co-ed dorm,no,important,none,"used, > 12mos",never used,,C+,C,Used,never used
+21,female,junior,off-campus,no,very import,none,never used,never used,,A-,A,never used,never used
+26,female,=> 5th yr,off-campus,no,not impt,none,never used,never used,1,A,A,never used,never used
+24,female,junior,off-campus,no,important,twice,used past 30d,used past 30d,1,B-,B,Used,Current User
+21,male,senior,off-campus,no,not impt,twice,"used, > 12mos",never used,1,A-,A,Used,never used
+21,male,freshman,oth univ hsg,no,not impt,none,never used,"used, > 12mos",,A-,A,never used,Previous User
+20,male,sophomore,1 sex dorm,no,somewhat imp,10 or more x,never used,used past 30d,0,B,B,never used,Current User
+22,male,=> 5th yr,off-campus,no,not impt,none,never used,never used,0,B-,B,never used,never used
+22,male,=> 5th yr,off-campus,no,somewhat imp,twice,"used, > 12mos","used, > 12mos",1,B,B,Used,Previous User
+21,male,senior,frat/sorority,yes,important,twice,never used,never used,,A-,A,never used,never used
+20,female,sophomore,co-ed dorm,no,not impt,twice,used past 30d,used past 30d,1,C+,C,Used,Current User
+18,female,freshman,1 sex dorm,no,not impt,none,never used,never used,,B+,B,never used,never used
+20,male,junior,co-ed dorm,no,not impt,none,never used,never used,0,A-,A,never used,never used
+21,female,junior,off-campus,no,very import,none,never used,never used,1,B-,B,never used,never used
+21,female,senior,off-campus,no,important,none,never used,never used,,B+,B,never used,never used
+18,male,freshman,co-ed dorm,no,somewhat imp,twice,never used,never used,0,B,B,never used,never used
+18,female,freshman,co-ed dorm,no,very import,none,never used,never used,,A-,A,never used,never used
+22,male,junior,off-campus,no,important,twice,"used, > 12mos","used, > 12mos",0,C+,C,Used,Previous User
+22,male,junior,co-ed dorm,no,important,none,"used, > 12mos",never used,1,B-,B,Used,never used
+20,female,junior,co-ed dorm,no,very import,none,never used,never used,,A-,A,never used,never used
+20,male,junior,frat/sorority,yes,not impt,none,"used, > 12mos",never used,1,B+,B,Used,never used
+19,male,sophomore,off-campus,yes,very import,none,never used,never used,,A,A,never used,never used
+23,female,=> 5th yr,off-campus,no,very import,none,used past 30d,"used, > 12mos",1,A,A,Used,Previous User
+20,female,junior,off-campus,no,not impt,none,never used,never used,,B,B,never used,never used
+19,female,freshman,co-ed dorm,no,important,none,never used,never used,,C+,C,never used,never used
+22,female,senior,frat/sorority,yes,somewhat imp,twice,"used, > 30day",used past 30d,0,B+,B,Used,Current User
+20,female,junior,off-campus,no,very import,none,"used, > 12mos","used, > 12mos",2 or more,C+,C,Used,Previous User
+20,female,sophomore,off-campus,no,important,none,never used,never used,1,C,C,never used,never used
+22,female,senior,off-campus,no,important,none,never used,never used,,C,C,never used,never used
+22,male,senior,off-campus,no,somewhat imp,none,never used,never used,1,A,A,never used,never used
+21,female,senior,off-campus,no,somewhat imp,none,never used,"used, > 30day",1,B-,B,never used,Current User
+22,female,senior,co-ed dorm,no,not impt,none,"used, > 30day",never used,0,B+,B,Used,never used
+26,female,=> 5th yr,off-campus,no,important,3-5 times,"used, > 12mos","used, > 12mos",1,B+,B,Used,Previous User
+18,female,freshman,off-campus,no,somewhat imp,none,never used,never used,1,B,B,never used,never used
+21,female,sophomore,off-campus,no,not impt,none,never used,never used,1,C,C,never used,never used
+24,male,junior,off-campus,no,very import,none,never used,never used,,B+,B,never used,never used
+19,male,freshman,off-campus,no,not impt,none,never used,"used, > 12mos",0,B+,B,never used,Previous User
+26,male,junior,oth univ hsg,no,somewhat imp,once,used past 30d,used past 30d,1,B,B,Used,Current User
+18,female,freshman,off-campus,no,very import,none,never used,never used,1,C+,C,never used,never used
+22,female,=> 5th yr,off-campus,no,very import,none,"used, > 30day",used past 30d,0,B+,B,Used,Current User
+21,male,junior,off-campus,no,not impt,none,never used,never used,1,B-,B,never used,never used
+22,male,senior,off-campus,no,not impt,3-5 times,"used, > 30day",used past 30d,1,B,B,Used,Current User
+19,male,sophomore,1 sex dorm,no,somewhat imp,none,never used,never used,1,B,B,never used,never used
+20,female,sophomore,1 sex dorm,no,important,none,never used,never used,1,C,C,never used,never used
+18,male,freshman,co-ed dorm,no,somewhat imp,twice,never used,"used, > 30day",,C,C,never used,Current User
+25,male,senior,off-campus,no,important,none,never used,never used,1,A,A,never used,never used
+23,female,junior,off-campus,no,somewhat imp,none,never used,never used,0,B-,B,never used,never used
+18,female,freshman,1 sex dorm,no,not impt,once,used past 30d,used past 30d,2 or more,B,B,Used,Current User
+18,male,freshman,co-ed dorm,no,not impt,none,never used,"used, > 12mos",,A,A,never used,Previous User
+18,male,freshman,1 sex dorm,yes,not impt,none,never used,"used, > 12mos",,B,B,never used,Previous User
+21,female,junior,1 sex dorm,no,very import,none,never used,never used,,B-,B,never used,never used
+18,female,freshman,co-ed dorm,no,important,none,never used,never used,,C+,C,never used,never used
+20,female,sophomore,oth univ hsg,no,important,none,never used,never used,1,B,B,never used,never used
+20,female,junior,off-campus,no,very import,none,never used,used past 30d,,B,B,never used,Current User
+22,female,junior,co-ed dorm,no,somewhat imp,twice,"used, > 12mos","used, > 30day",1,B+,B,Used,Current User
+20,male,sophomore,1 sex dorm,no,very import,once,never used,never used,,B-,B,never used,never used
+18,male,freshman,1 sex dorm,no,important,twice,used past 30d,used past 30d,1,B-,B,Used,Current User
+22,female,senior,co-ed dorm,no,not impt,none,never used,never used,,A-,A,never used,never used
+26,male,senior,off-campus,no,not impt,none,used past 30d,"used, > 12mos",0,B,B,Used,Previous User
+18,female,freshman,co-ed dorm,yes,somewhat imp,twice,never used,never used,1,B,B,never used,never used
+19,female,freshman,co-ed dorm,no,somewhat imp,none,used past 30d,used past 30d,1,B-,B,Used,Current User
+26,female,senior,off-campus,no,not impt,none,"used, > 30day","used, > 12mos",1,B+,B,Used,Previous User
+22,male,junior,off-campus,no,not impt,none,never used,"used, > 12mos",1,A,A,never used,Previous User
+21,female,junior,off-campus,no,somewhat imp,none,never used,never used,1,C+,C,never used,never used
+22,female,=> 5th yr,1 sex dorm,no,important,none,never used,never used,1,A,A,never used,never used
+22,male,senior,off-campus,no,not impt,3-5 times,"used, > 12mos",used past 30d,0,A-,A,Used,Current User
+21,female,senior,co-ed dorm,no,very import,3-5 times,used past 30d,used past 30d,1,B,B,Used,Current User
+20,female,sophomore,off-campus,no,very import,none,never used,never used,,B,B,never used,never used
+18,male,freshman,1 sex dorm,no,very import,none,never used,never used,2 or more,B-,B,never used,never used
+19,female,freshman,off-campus,no,somewhat imp,none,never used,"used, > 30day",,A-,A,never used,Current User
+21,female,junior,off-campus,no,not impt,none,never used,"used, > 12mos",1,B,B,never used,Previous User
+19,male,sophomore,off-campus,no,important,none,never used,never used,0,B,B,never used,never used
+18,female,freshman,co-ed dorm,yes,somewhat imp,none,never used,never used,,B,B,never used,never used
+21,female,junior,off-campus,no,not impt,once,never used,never used,1,B+,B,never used,never used
+21,female,senior,frat/sorority,yes,not impt,once,"used, > 30day","used, > 12mos",0,B+,B,Used,Previous User
+25,female,senior,off-campus,no,not impt,twice,used past 30d,"used, > 30day",0,A,A,Used,Current User
+18,female,freshman,1 sex dorm,no,somewhat imp,3-5 times,"used, > 30day",used past 30d,1,C,C,Used,Current User
+18,male,freshman,1 sex dorm,no,important,10 or more x,used past 30d,"used, > 12mos",1,B+,B,Used,Previous User
+22,male,junior,off-campus,yes,somewhat imp,6-9 times,"used, > 12mos",used past 30d,1,C+,C,Used,Current User
+18,female,freshman,co-ed dorm,no,important,once,never used,"used, > 12mos",1,B-,B,never used,Previous User
+20,female,sophomore,off-campus,no,very import,none,never used,never used,1,A-,A,never used,never used
+20,female,sophomore,co-ed dorm,no,not impt,none,never used,never used,,B-,B,never used,never used
+26,male,sophomore,off-campus,no,very import,none,never used,never used,1,B+,B,never used,never used
+21,male,senior,1 sex dorm,no,important,none,"used, > 12mos",never used,1,B,B,Used,never used
+23,male,=> 5th yr,off-campus,yes,important,twice,"used, > 12mos","used, > 30day",0,B-,B,Used,Current User
+18,female,freshman,1 sex dorm,no,very import,none,never used,never used,,C+,C,never used,never used
+22,male,junior,co-ed dorm,no,somewhat imp,3-5 times,never used,never used,1,C+,C,never used,never used
+18,male,freshman,co-ed dorm,no,very import,none,never used,never used,,A-,A,never used,never used
+20,female,senior,1 sex dorm,no,not impt,3-5 times,used past 30d,"used, > 30day",2 or more,A-,A,Used,Current User
+20,male,sophomore,co-ed dorm,no,somewhat imp,3-5 times,never used,never used,,B+,B,never used,never used
+18,female,freshman,1 sex dorm,no,somewhat imp,none,never used,never used,2 or more,C,C,never used,never used
+21,female,senior,off-campus,yes,somewhat imp,once,"used, > 12mos",used past 30d,1,A-,A,Used,Current User
+20,female,junior,off-campus,no,not impt,none,never used,never used,1,B+,B,never used,never used
+18,female,freshman,oth univ hsg,no,important,none,never used,never used,,A,A,never used,never used
+19,female,sophomore,co-ed dorm,no,somewhat imp,none,"used, > 12mos","used, > 12mos",0,B+,B,Used,Previous User
+26,male,=> 5th yr,off-campus,no,not impt,none,used past 30d,"used, > 12mos",1,B,B,Used,Previous User
+19,female,sophomore,off-campus,no,very import,none,never used,never used,,B,B,never used,never used
+24,male,senior,off-campus,no,not impt,none,"used, > 12mos",used past 30d,1,B-,B,Used,Current User
+19,male,sophomore,frat/sorority,yes,somewhat imp,3-5 times,"used, > 30day",used past 30d,0,B,B,Used,Current User
+22,female,senior,off-campus,no,not impt,once,used past 30d,"used, > 12mos",1,B-,B,Used,Previous User
+21,female,senior,off-campus,no,important,none,never used,never used,,A-,A,never used,never used
+21,male,junior,off-campus,no,not impt,none,never used,never used,,B-,B,never used,never used
+21,female,senior,off-campus,no,somewhat imp,none,never used,"used, > 12mos",1,A,A,never used,Previous User
+21,female,junior,off-campus,no,very import,none,never used,never used,0,A-,A,never used,never used
+26,female,senior,off-campus,no,very import,none,"used, > 12mos","used, > 12mos",1,A,A,Used,Previous User
+19,female,freshman,1 sex dorm,yes,somewhat imp,,never used,"used, > 30day",1,A-,A,never used,Current User
+22,female,sophomore,off-campus,no,important,6-9 times,used past 30d,used past 30d,1,C+,C,Used,Current User
+22,female,senior,off-campus,no,not impt,none,"used, > 12mos","used, > 12mos",0,A,A,Used,Previous User
+26,female,senior,off-campus,no,very import,none,never used,never used,1,A,A,never used,never used
+21,male,senior,oth univ hsg,no,not impt,once,used past 30d,used past 30d,0,A-,A,Used,Current User
+23,male,junior,off-campus,no,somewhat imp,none,never used,never used,1,B,B,never used,never used
+20,male,junior,off-campus,no,somewhat imp,twice,never used,"used, > 30day",1,A,A,never used,Current User
+21,female,senior,off-campus,yes,somewhat imp,none,never used,never used,0,B-,B,never used,never used
+18,female,freshman,co-ed dorm,no,not impt,3-5 times,used past 30d,used past 30d,1,A-,A,Used,Current User
+18,female,freshman,off-campus,no,very import,3-5 times,"used, > 30day","used, > 12mos",1,B,B,Used,Previous User
+20,male,freshman,off-campus,no,important,none,never used,never used,2 or more,C,C,never used,never used
+26,male,senior,off-campus,no,somewhat imp,twice,never used,never used,,C+,C,never used,never used
+19,female,freshman,co-ed dorm,no,not impt,none,never used,never used,,B+,B,never used,never used
+19,female,sophomore,off-campus,no,important,none,never used,never used,,A-,A,never used,never used
+20,male,junior,off-campus,no,important,none,never used,never used,,A,A,never used,never used
+20,female,sophomore,co-ed dorm,yes,not impt,6-9 times,used past 30d,used past 30d,0,A,A,Used,Current User
+18,male,freshman,co-ed dorm,no,not impt,6-9 times,"used, > 12mos",,,B+,B,Used,
+19,male,sophomore,off-campus,no,not impt,3-5 times,used past 30d,"used, > 30day",1,C+,C,Used,Current User
+19,male,sophomore,off-campus,no,very import,none,never used,never used,1,B+,B,never used,never used
+19,female,freshman,co-ed dorm,no,not impt,none,never used,never used,,B+,B,never used,never used
+18,female,freshman,off-campus,no,somewhat imp,once,"used, > 30day",used past 30d,1,C+,C,Used,Current User
+18,male,freshman,1 sex dorm,no,very import,none,never used,never used,,B,B,never used,never used
+20,male,freshman,1 sex dorm,yes,very import,none,"used, > 12mos","used, > 12mos",,A,A,Used,Previous User
+21,female,junior,off-campus,no,very import,none,never used,never used,,B,B,never used,never used
+18,male,freshman,off-campus,no,not impt,none,never used,"used, > 30day",,D,D,never used,Current User
+20,male,junior,off-campus,no,not impt,once,never used,"used, > 30day",1,B,B,never used,Current User
+23,male,=> 5th yr,off-campus,no,not impt,10 or more x,"used, > 30day",used past 30d,1,C,C,Used,Current User
+23,female,=> 5th yr,off-campus,no,not impt,none,"used, > 12mos",used past 30d,1,B+,B,Used,Current User
+21,female,senior,off-campus,no,important,none,"used, > 30day",never used,1,B+,B,Used,never used
+19,male,sophomore,off-campus,no,very import,none,never used,never used,,A,A,never used,never used
+21,male,sophomore,oth univ hsg,no,important,none,never used,never used,2 or more,B-,B,never used,never used
+23,male,senior,off-campus,no,not impt,none,"used, > 12mos",used past 30d,0,A-,A,Used,Current User
+19,female,freshman,co-ed dorm,no,very import,none,never used,never used,,C+,C,never used,never used
+22,female,senior,off-campus,no,not impt,3-5 times,used past 30d,never used,1,B,B,Used,never used
+19,female,sophomore,co-ed dorm,no,somewhat imp,twice,"used, > 30day",never used,0,B+,B,Used,never used
+19,male,freshman,co-ed dorm,no,not impt,once,never used,used past 30d,1,A-,A,never used,Current User
+26,female,junior,off-campus,no,very import,none,never used,never used,1,A-,A,never used,never used
+19,male,sophomore,1 sex dorm,no,important,none,never used,never used,0,C,C,never used,never used
+21,male,senior,1 sex dorm,no,important,none,never used,never used,0,A,A,never used,never used
+21,female,junior,co-ed dorm,no,somewhat imp,none,never used,never used,,B,B,never used,never used
+19,female,freshman,1 sex dorm,no,not impt,none,never used,used past 30d,0,B-,B,never used,Current User
+22,male,=> 5th yr,off-campus,no,not impt,once,"used, > 12mos",never used,1,A-,A,Used,never used
+18,female,freshman,1 sex dorm,,important,twice,"used, > 30day","used, > 12mos",,B-,B,Used,Previous User
+22,male,senior,off-campus,no,very import,none,never used,never used,,C-,C,never used,never used
+18,female,freshman,1 sex dorm,no,important,none,never used,never used,,B+,B,never used,never used
+22,male,junior,off-campus,no,important,3-5 times,never used,never used,1,B-,B,never used,never used
+22,male,=> 5th yr,off-campus,yes,somewhat imp,twice,"used, > 30day",never used,1,B+,B,Used,never used
+21,male,sophomore,co-ed dorm,no,not impt,once,"used, > 12mos",used past 30d,0,B-,B,Used,Current User
+20,female,junior,off-campus,no,important,none,never used,never used,,B+,B,never used,never used
+23,female,senior,off-campus,no,somewhat imp,none,never used,never used,,A,A,never used,never used
+19,female,sophomore,off-campus,no,somewhat imp,none,never used,"used, > 30day",1,B+,B,never used,Current User
+23,male,senior,off-campus,no,not impt,none,never used,"used, > 12mos",1,C+,C,never used,Previous User
+19,female,freshman,off-campus,no,somewhat imp,none,"used, > 12mos","used, > 12mos",1,A-,A,Used,Previous User
+22,male,junior,co-ed dorm,no,important,none,never used,never used,,A-,A,never used,never used
+18,female,freshman,1 sex dorm,no,not impt,none,never used,used past 30d,,B+,B,never used,Current User
+19,male,freshman,off-campus,no,very import,none,"used, > 12mos","used, > 12mos",0,B+,B,Used,Previous User
+19,female,sophomore,off-campus,no,very import,none,never used,never used,1,B,B,never used,never used
+18,female,freshman,1 sex dorm,no,not impt,none,never used,never used,,A-,A,never used,never used
+26,female,junior,off-campus,no,somewhat imp,none,never used,"used, > 12mos",1,B+,B,never used,Previous User
+25,male,=> 5th yr,off-campus,yes,somewhat imp,none,never used,never used,,B,B,never used,never used
+21,female,senior,off-campus,no,important,none,never used,never used,,A-,A,never used,never used
+18,female,freshman,1 sex dorm,no,somewhat imp,none,"used, > 30day",never used,0,C+,C,Used,never used
+22,female,freshman,off-campus,no,important,none,"used, > 12mos","used, > 12mos",0,"no grade, dk",,Used,Previous User
+21,female,senior,off-campus,no,not impt,none,never used,never used,1,B,B,never used,never used
+23,male,sophomore,1 sex dorm,no,somewhat imp,none,never used,"used, > 12mos",,C+,C,never used,Previous User
+18,female,freshman,off-campus,no,important,,never used,never used,,A-,A,never used,never used
+26,female,=> 5th yr,off-campus,no,not impt,none,never used,never used,1,A,A,never used,never used
+21,female,junior,co-ed dorm,no,somewhat imp,twice,never used,never used,1,B,B,never used,never used
+24,female,=> 5th yr,off-campus,no,not impt,once,used past 30d,used past 30d,1,A-,A,Used,Current User
+20,male,sophomore,off-campus,no,somewhat imp,none,never used,never used,1,B-,B,never used,never used
+22,male,junior,co-ed dorm,no,,6-9 times,"used, > 30day","used, > 30day",1,B,B,Used,Current User
+22,female,senior,off-campus,no,important,none,never used,"used, > 30day",1,A-,A,never used,Current User
+20,female,sophomore,off-campus,no,not impt,none,never used,"used, > 12mos",1,B,B,never used,Previous User
+21,female,junior,off-campus,no,not impt,once,used past 30d,used past 30d,1,A,A,Used,Current User
+22,female,senior,off-campus,no,important,once,"used, > 12mos",used past 30d,1,A-,A,Used,Current User
+26,male,=> 5th yr,off-campus,yes,somewhat imp,none,"used, > 30day",used past 30d,0,B,B,Used,Current User
+23,male,senior,off-campus,yes,important,6-9 times,used past 30d,used past 30d,1,B+,B,Used,Current User
+22,male,senior,1 sex dorm,no,not impt,none,never used,never used,,A,A,never used,never used
+23,female,senior,off-campus,no,somewhat imp,none,never used,never used,0,A-,A,never used,never used
+26,male,senior,off-campus,no,important,3-5 times,"used, > 12mos",used past 30d,1,B,B,Used,Current User
+21,female,senior,off-campus,no,somewhat imp,none,never used,never used,0,A,A,never used,never used
+18,female,freshman,co-ed dorm,no,somewhat imp,none,never used,"used, > 30day",1,C,C,never used,Current User
+19,female,freshman,1 sex dorm,yes,important,3-5 times,used past 30d,used past 30d,1,B,B,Used,Current User
+18,female,freshman,co-ed dorm,no,important,6-9 times,used past 30d,used past 30d,1,B-,B,Used,Current User
+22,male,senior,off-campus,no,not impt,none,"used, > 30day","used, > 12mos",1,B+,B,Used,Previous User
+26,male,senior,off-campus,no,somewhat imp,none,never used,used past 30d,0,B+,B,never used,Current User
+26,female,junior,off-campus,yes,not impt,none,"used, > 12mos","used, > 12mos",1,B+,B,Used,Previous User
+20,female,junior,off-campus,no,important,none,"used, > 30day","used, > 30day",1,B-,B,Used,Current User
+26,female,junior,off-campus,no,not impt,none,used past 30d,"used, > 12mos",0,A-,A,Used,Previous User
+21,female,junior,off-campus,yes,somewhat imp,3-5 times,used past 30d,used past 30d,2 or more,B,B,Used,Current User
+24,male,junior,off-campus,no,very import,none,never used,never used,,B+,B,never used,never used
+23,female,junior,off-campus,no,important,twice,"used, > 12mos",used past 30d,1,B+,B,Used,Current User
+26,male,senior,off-campus,no,important,none,never used,never used,1,B+,B,never used,never used
+24,male,=> 5th yr,off-campus,no,somewhat imp,none,"used, > 12mos",never used,1,B+,B,Used,never used
+21,female,junior,1 sex dorm,no,very import,none,"used, > 12mos",used past 30d,,B,B,Used,Current User
+21,female,freshman,off-campus,no,very import,none,"used, > 30day",used past 30d,0,C+,C,Used,Current User
+21,male,senior,off-campus,no,not impt,twice,"used, > 12mos","used, > 30day",0,B,B,Used,Current User
+19,female,freshman,off-campus,no,very import,none,never used,never used,0,B,B,never used,never used
+26,male,=> 5th yr,off-campus,no,somewhat imp,none,"used, > 12mos",used past 30d,2 or more,B,B,Used,Current User
+20,female,junior,off-campus,no,important,none,never used,never used,,B,B,never used,never used
+22,female,senior,off-campus,no,not impt,none,"used, > 12mos","used, > 30day",1,B-,B,Used,Current User
+22,female,senior,oth univ hsg,yes,somewhat imp,once,"used, > 12mos",never used,1,B+,B,Used,never used
+21,male,junior,1 sex dorm,no,important,3-5 times,never used,"used, > 30day",,B,B,never used,Current User
+20,female,junior,off-campus,no,not impt,once,"used, > 12mos",,1,"no grade, dk",,Used,
+21,female,senior,off-campus,no,important,once,never used,never used,,A,A,never used,never used
+21,female,senior,off-campus,yes,somewhat imp,none,"used, > 12mos","used, > 12mos",1,B+,B,Used,Previous User
+22,female,senior,co-ed dorm,no,not impt,once,"used, > 12mos","used, > 12mos",1,A-,A,Used,Previous User
+18,male,freshman,off-campus,no,somewhat imp,twice,never used,"used, > 12mos",1,"no grade, dk",,never used,Previous User
+18,female,freshman,off-campus,no,very import,none,never used,never used,,B-,B,never used,never used
+26,male,senior,off-campus,no,not impt,none,never used,never used,0,"no grade, dk",,never used,never used
+26,female,junior,off-campus,no,not impt,none,never used,"used, > 12mos",1,A,A,never used,Previous User
+18,female,freshman,1 sex dorm,no,important,none,"used, > 12mos",never used,,B-,B,Used,never used
+19,female,sophomore,co-ed dorm,yes,somewhat imp,none,never used,never used,1,B-,B,never used,never used
+18,female,freshman,off-campus,no,somewhat imp,,never used,never used,,B,B,never used,never used
+19,female,freshman,off-campus,no,not impt,none,"used, > 30day","used, > 30day",1,B-,B,Used,Current User
+20,female,sophomore,1 sex dorm,no,very import,none,never used,never used,1,B-,B,never used,never used
+20,female,sophomore,off-campus,no,important,once,never used,"used, > 12mos",1,C+,C,never used,Previous User
+26,female,junior,off-campus,no,not impt,none,never used,never used,0,B,B,never used,never used
+19,male,freshman,co-ed dorm,no,somewhat imp,none,never used,never used,1,C+,C,never used,never used
+26,male,senior,off-campus,no,very import,none,"used, > 12mos","used, > 12mos",1,B,B,Used,Previous User
+18,female,freshman,1 sex dorm,no,somewhat imp,10 or more x,used past 30d,never used,2 or more,D,D,Used,never used
+20,male,junior,off-campus,no,very import,none,never used,never used,0,C-,C,never used,never used
+21,female,senior,off-campus,no,not impt,none,never used,"used, > 12mos",1,A-,A,never used,Previous User
+24,female,=> 5th yr,off-campus,yes,somewhat imp,none,"used, > 30day",never used,2 or more,C+,C,Used,never used
+20,male,junior,1 sex dorm,no,not impt,once,"used, > 12mos",used past 30d,,B+,B,Used,Current User
+23,male,senior,oth univ hsg,no,not impt,none,"used, > 12mos","used, > 12mos",1,B,B,Used,Previous User
+18,male,freshman,co-ed dorm,no,very import,,never used,"used, > 12mos",0,B-,B,never used,Previous User
+26,female,senior,off-campus,no,very import,none,never used,never used,1,B-,B,never used,never used
+22,male,senior,co-ed dorm,no,not impt,once,"used, > 12mos","used, > 12mos",0,B+,B,Used,Previous User
+21,female,senior,co-ed dorm,no,not impt,none,never used,never used,1,A,A,never used,never used
+22,male,senior,off-campus,yes,somewhat imp,once,never used,never used,1,B-,B,never used,never used
+21,male,senior,off-campus,no,somewhat imp,none,never used,used past 30d,1,B+,B,never used,Current User
+20,male,junior,co-ed dorm,yes,very import,twice,used past 30d,used past 30d,0,A-,A,Used,Current User
+26,male,=> 5th yr,off-campus,no,not impt,none,never used,used past 30d,1,A-,A,never used,Current User
+24,male,=> 5th yr,off-campus,no,not impt,once,used past 30d,used past 30d,2 or more,C,C,Used,Current User
+19,female,sophomore,1 sex dorm,no,important,once,never used,never used,,B-,B,never used,never used
+21,male,senior,off-campus,no,not impt,twice,"used, > 12mos","used, > 12mos",1,A,A,Used,Previous User
+18,female,freshman,off-campus,no,important,none,never used,never used,1,B+,B,never used,never used
+21,female,junior,off-campus,no,very import,3-5 times,never used,never used,1,B+,B,never used,never used
+26,female,=> 5th yr,off-campus,no,not impt,none,"used, > 12mos","used, > 12mos",1,A-,A,Used,Previous User
+21,female,junior,off-campus,no,somewhat imp,none,never used,never used,1,B+,B,never used,never used
+26,male,senior,off-campus,no,important,3-5 times,never used,never used,2 or more,A-,A,never used,never used
+20,female,sophomore,1 sex dorm,no,very import,none,never used,never used,,A-,A,never used,never used
+21,male,junior,off-campus,yes,somewhat imp,once,never used,never used,0,C-,C,never used,never used
+19,male,freshman,co-ed dorm,no,important,6-9 times,never used,never used,1,B-,B,never used,never used
+22,female,=> 5th yr,off-campus,no,not impt,none,never used,"used, > 12mos",1,B,B,never used,Previous User
+21,female,junior,off-campus,no,not impt,none,never used,never used,0,B,B,never used,never used
+21,female,senior,off-campus,no,very import,none,never used,never used,,C,C,never used,never used
+18,female,freshman,co-ed dorm,no,not impt,none,never used,used past 30d,0,B,B,never used,Current User
+21,female,junior,off-campus,no,very import,once,never used,never used,1,B,B,never used,never used
+18,female,freshman,co-ed dorm,no,not impt,3-5 times,used past 30d,used past 30d,1,C-,C,Used,Current User
+23,male,=> 5th yr,off-campus,no,important,once,never used,"used, > 30day",,B,B,never used,Current User
+20,female,sophomore,co-ed dorm,no,very import,none,never used,never used,,B,B,never used,never used
+21,female,senior,off-campus,yes,important,once,never used,never used,1,A-,A,never used,never used
+26,female,junior,off-campus,no,not impt,none,"used, > 12mos",never used,1,A,A,Used,never used
+19,male,sophomore,1 sex dorm,no,very import,none,never used,never used,0,A,A,never used,never used
+21,female,senior,off-campus,no,somewhat imp,once,never used,never used,1,A-,A,never used,never used
+23,female,junior,off-campus,no,somewhat imp,once,used past 30d,used past 30d,2 or more,C,C,Used,Current User
+19,male,sophomore,oth univ hsg,no,important,twice,used past 30d,never used,,B+,B,Used,never used
+23,male,senior,off-campus,no,very import,none,never used,never used,1,B+,B,never used,never used
+19,female,freshman,1 sex dorm,no,important,3-5 times,used past 30d,used past 30d,1,B,B,Used,Current User
+26,male,junior,off-campus,no,very import,,never used,never used,,B+,B,never used,never used
+26,female,junior,off-campus,no,very import,none,"used, > 12mos","used, > 12mos",1,B-,B,Used,Previous User
+26,male,senior,off-campus,no,not impt,3-5 times,"used, > 12mos","used, > 12mos",1,A-,A,Used,Previous User
+25,female,sophomore,off-campus,no,not impt,none,"used, > 12mos",used past 30d,1,C,C,Used,Current User
+20,male,junior,off-campus,no,very import,none,never used,never used,,C-,C,never used,never used
+21,female,junior,off-campus,no,very import,none,never used,never used,1,C,C,never used,never used
+19,female,freshman,co-ed dorm,no,not impt,once,"used, > 30day",used past 30d,1,A,A,Used,Current User
+19,male,sophomore,oth univ hsg,no,somewhat imp,3-5 times,never used,"used, > 30day",0,B+,B,never used,Current User
+22,female,senior,off-campus,yes,somewhat imp,once,never used,"used, > 12mos",1,B,B,never used,Previous User
+21,male,freshman,off-campus,no,very import,none,never used,never used,,A,A,never used,never used
+22,female,=> 5th yr,off-campus,no,very import,3-5 times,"used, > 12mos",used past 30d,0,B-,B,Used,Current User
+20,male,sophomore,frat/sorority,yes,somewhat imp,3-5 times,"used, > 12mos",used past 30d,1,B+,B,Used,Current User
+18,female,freshman,1 sex dorm,no,not impt,once,"used, > 12mos","used, > 12mos",1,C+,C,Used,Previous User
+19,female,freshman,1 sex dorm,no,very import,once,never used,never used,,C+,C,never used,never used
+19,female,sophomore,off-campus,no,not impt,3-5 times,"used, > 30day","used, > 30day",0,B-,B,Used,Current User
+18,male,sophomore,co-ed dorm,no,somewhat imp,none,never used,never used,,B+,B,never used,never used
+20,male,junior,off-campus,no,somewhat imp,6-9 times,used past 30d,never used,1,C,C,Used,never used
+22,male,,off-campus,no,very import,none,never used,never used,1,B-,B,never used,never used
+20,male,junior,frat/sorority,yes,somewhat imp,3-5 times,never used,never used,0,B-,B,never used,never used
+18,female,freshman,off-campus,no,important,none,never used,never used,,B,B,never used,never used
+21,female,junior,off-campus,no,important,none,never used,never used,,C+,C,never used,never used
+26,female,senior,off-campus,no,not impt,none,never used,"used, > 12mos",,A,A,never used,Previous User
+19,female,sophomore,1 sex dorm,no,important,none,"used, > 12mos","used, > 30day",0,C,C,Used,Current User
+23,male,junior,off-campus,no,not impt,,never used,used past 30d,0,B,B,never used,Current User
+26,male,senior,off-campus,no,important,none,"used, > 12mos",never used,,A,A,Used,never used
+21,male,senior,off-campus,no,not impt,twice,"used, > 30day",never used,1,B-,B,Used,never used
+22,male,senior,off-campus,no,not impt,none,never used,never used,0,B,B,never used,never used
+20,female,junior,off-campus,no,somewhat imp,none,"used, > 30day","used, > 30day",1,B+,B,Used,Current User
+26,female,junior,off-campus,no,important,none,"used, > 12mos","used, > 12mos",1,B+,B,Used,Previous User
+26,female,=> 5th yr,off-campus,no,important,none,never used,never used,0,A-,A,never used,never used
+20,female,sophomore,off-campus,no,not impt,none,never used,never used,1,A-,A,never used,never used
+25,female,junior,off-campus,no,not impt,none,"used, > 12mos",used past 30d,0,B+,B,Used,Current User
+19,female,freshman,co-ed dorm,no,somewhat imp,none,never used,"used, > 12mos",,B,B,never used,Previous User
+22,male,junior,off-campus,no,important,none,never used,never used,,"no grade, dk",,never used,never used
+22,female,=> 5th yr,off-campus,no,important,none,used past 30d,used past 30d,1,B,B,Used,Current User
+26,female,senior,off-campus,no,very import,none,never used,never used,0,A-,A,never used,never used
+20,female,junior,off-campus,yes,not impt,3-5 times,never used,never used,0,B+,B,never used,never used
+20,female,junior,co-ed dorm,no,very import,none,never used,never used,,A-,A,never used,never used
+20,female,junior,co-ed dorm,no,somewhat imp,once,never used,never used,0,A-,A,never used,never used
+,,,,,,3-5 times,never used,"used, > 12mos",0,B-,B,never used,Previous User
+26,female,senior,off-campus,no,not impt,none,never used,never used,1,"no grade, dk",,never used,never used
+23,female,=> 5th yr,1 sex dorm,no,somewhat imp,3-5 times,"used, > 12mos",used past 30d,1,B+,B,Used,Current User
+26,female,junior,off-campus,no,not impt,none,"used, > 12mos","used, > 12mos",1,B+,B,Used,Previous User
+19,female,sophomore,co-ed dorm,no,important,none,never used,never used,,B,B,never used,never used
+19,male,freshman,off-campus,no,not impt,10 or more x,used past 30d,"used, > 12mos",1,C,C,Used,Previous User
+20,male,sophomore,off-campus,no,somewhat imp,none,never used,"used, > 30day",,B-,B,never used,Current User
+26,male,junior,off-campus,no,important,none,never used,never used,1,A-,A,never used,never used
+19,male,sophomore,co-ed dorm,no,not impt,none,never used,never used,,A-,A,never used,never used
+26,male,freshman,off-campus,no,not impt,none,"used, > 12mos",used past 30d,1,A-,A,Used,Current User
+26,male,senior,off-campus,no,not impt,none,never used,never used,1,B+,B,never used,never used
+18,male,sophomore,off-campus,no,not impt,none,never used,never used,1,A-,A,never used,never used
+18,female,freshman,co-ed dorm,no,somewhat imp,twice,never used,used past 30d,0,A-,A,never used,Current User
+23,female,senior,off-campus,no,very import,none,never used,used past 30d,,A,A,never used,Current User
+21,male,senior,frat/sorority,yes,not impt,3-5 times,"used, > 30day",never used,,B+,B,Used,never used
+21,male,senior,off-campus,no,not impt,twice,used past 30d,used past 30d,1,A,A,Used,Current User
+18,female,freshman,co-ed dorm,yes,important,twice,used past 30d,used past 30d,,C,C,Used,Current User
+19,female,freshman,1 sex dorm,no,somewhat imp,3-5 times,"used, > 30day",used past 30d,0,C-,C,Used,Current User
+23,female,=> 5th yr,off-campus,yes,very import,none,never used,never used,1,C+,C,never used,never used
+20,male,junior,off-campus,no,very import,none,"used, > 12mos",never used,,B+,B,Used,never used
+22,female,junior,off-campus,no,not impt,none,used past 30d,never used,1,A,A,Used,never used
+21,female,senior,co-ed dorm,no,not impt,none,never used,never used,0,A,A,never used,never used
+26,female,senior,off-campus,no,not impt,none,never used,never used,1,B-,B,never used,never used
+18,female,freshman,co-ed dorm,no,very import,none,never used,never used,,A,A,never used,never used
+21,female,senior,off-campus,yes,not impt,twice,"used, > 12mos","used, > 12mos",0,A-,A,Used,Previous User
+26,female,junior,off-campus,no,very import,none,never used,"used, > 30day",1,B,B,never used,Current User
+21,female,sophomore,co-ed dorm,yes,somewhat imp,twice,used past 30d,used past 30d,1,C,C,Used,Current User
+19,male,freshman,1 sex dorm,no,very import,none,never used,never used,0,C+,C,never used,never used
+22,male,senior,off-campus,no,somewhat imp,3-5 times,never used,used past 30d,1,B,B,never used,Current User
+21,male,senior,off-campus,no,somewhat imp,none,"used, > 30day",used past 30d,1,B+,B,Used,Current User
+24,male,senior,off-campus,no,not impt,none,never used,never used,,A-,A,never used,never used
+20,female,junior,off-campus,no,important,3-5 times,never used,never used,1,C,C,never used,never used
+21,male,senior,off-campus,no,not impt,3-5 times,used past 30d,"used, > 30day",1,A-,A,Used,Current User
+19,male,freshman,1 sex dorm,no,not impt,once,"used, > 30day","used, > 30day",1,C+,C,Used,Current User
+21,female,senior,off-campus,no,somewhat imp,none,never used,never used,1,B+,B,never used,never used
+23,male,=> 5th yr,off-campus,no,somewhat imp,none,never used,never used,2 or more,B-,B,never used,never used
+20,female,sophomore,1 sex dorm,no,important,none,never used,never used,,B,B,never used,never used
+24,male,junior,off-campus,no,not impt,once,never used,"used, > 12mos",0,B+,B,never used,Previous User
+18,female,freshman,co-ed dorm,no,important,none,never used,used past 30d,,B,B,never used,Current User
+19,male,freshman,1 sex dorm,no,important,none,never used,never used,1,C+,C,never used,never used
+25,female,junior,off-campus,no,very import,none,"used, > 30day",never used,2 or more,B+,B,Used,never used
+20,female,sophomore,off-campus,no,very import,none,never used,never used,,B-,B,never used,never used
+22,female,senior,off-campus,no,important,none,"used, > 12mos","used, > 12mos",1,A-,A,Used,Previous User
+21,female,sophomore,off-campus,no,somewhat imp,none,never used,never used,,C,C,never used,never used
+20,male,sophomore,off-campus,no,important,3-5 times,"used, > 30day","used, > 30day",0,B,B,Used,Current User
+19,male,freshman,co-ed dorm,no,not impt,none,never used,never used,,C+,C,never used,never used
+26,female,=> 5th yr,off-campus,no,not impt,none,never used,never used,1,B+,B,never used,never used
+21,male,junior,co-ed dorm,no,very import,none,never used,never used,,B,B,never used,never used
+26,female,senior,off-campus,no,not impt,none,never used,never used,1,C+,C,never used,never used
+19,male,freshman,co-ed dorm,no,somewhat imp,none,"used, > 30day",used past 30d,1,B,B,Used,Current User
+21,female,sophomore,co-ed dorm,no,somewhat imp,3-5 times,"used, > 30day","used, > 30day",1,B,B,Used,Current User
+19,female,sophomore,1 sex dorm,no,very import,once,never used,never used,,B,B,never used,never used
+18,male,freshman,co-ed dorm,no,not impt,none,never used,never used,,A-,A,never used,never used
+21,female,senior,co-ed dorm,no,important,none,never used,"used, > 30day",0,A-,A,never used,Current User
+19,female,freshman,co-ed dorm,no,not impt,,never used,never used,,B+,B,never used,never used
+21,female,junior,co-ed dorm,no,not impt,none,"used, > 12mos",never used,1,B-,B,Used,never used
+20,male,sophomore,off-campus,no,somewhat imp,none,used past 30d,used past 30d,,B-,B,Used,Current User
+20,male,junior,off-campus,no,not impt,none,"used, > 12mos","used, > 30day",1,B+,B,Used,Current User
+21,male,senior,off-campus,yes,not impt,none,never used,never used,2 or more,A-,A,never used,never used
+26,male,junior,off-campus,no,very import,none,"used, > 12mos",never used,1,B-,B,Used,never used
+23,female,junior,off-campus,no,very import,none,"used, > 12mos","used, > 12mos",1,B+,B,Used,Previous User
+21,male,junior,off-campus,no,somewhat imp,none,never used,never used,1,B-,B,never used,never used
+20,female,sophomore,1 sex dorm,no,somewhat imp,none,"used, > 12mos",used past 30d,1,B,B,Used,Current User
+21,male,senior,oth univ hsg,no,not impt,3-5 times,"used, > 30day","used, > 12mos",0,B-,B,Used,Previous User
+19,male,sophomore,frat/sorority,yes,somewhat imp,twice,"used, > 30day","used, > 12mos",0,B,B,Used,Previous User
+21,female,junior,oth univ hsg,no,somewhat imp,twice,never used,used past 30d,,B+,B,never used,Current User
+21,female,junior,off-campus,no,somewhat imp,twice,never used,never used,,A-,A,never used,never used
+23,female,senior,off-campus,no,not impt,none,never used,never used,1,B+,B,never used,never used
+23,male,=> 5th yr,off-campus,no,somewhat imp,once,never used,never used,1,A,A,never used,never used
+21,female,junior,co-ed dorm,no,not impt,none,"used, > 30day","used, > 30day",1,B+,B,Used,Current User
+19,male,sophomore,off-campus,yes,not impt,3-5 times,never used,"used, > 12mos",,A,A,never used,Previous User
+21,female,junior,off-campus,no,somewhat imp,none,never used,never used,,A,A,never used,never used
+21,female,senior,off-campus,yes,important,once,never used,"used, > 12mos",0,B+,B,never used,Previous User
+20,female,sophomore,co-op,no,not impt,none,"used, > 30day",never used,,B+,B,Used,never used
+22,male,=> 5th yr,off-campus,no,not impt,3-5 times,used past 30d,used past 30d,0,C,C,Used,Current User
+20,female,junior,off-campus,no,somewhat imp,none,never used,never used,0,B+,B,never used,never used
+23,male,=> 5th yr,off-campus,yes,somewhat imp,twice,"used, > 12mos",used past 30d,1,B+,B,Used,Current User
+26,female,sophomore,off-campus,no,very import,none,never used,never used,1,B,B,never used,never used
+19,female,sophomore,co-ed dorm,no,not impt,once,never used,never used,,A,A,never used,never used
+19,male,sophomore,co-ed dorm,no,not impt,none,never used,"used, > 30day",,B-,B,never used,Current User
+21,female,senior,off-campus,yes,not impt,none,never used,"used, > 12mos",1,B,B,never used,Previous User
+26,female,senior,off-campus,no,important,once,never used,used past 30d,1,A-,A,never used,Current User
+20,male,sophomore,co-ed dorm,yes,very import,twice,never used,never used,0,C+,C,never used,never used
+26,male,senior,off-campus,no,somewhat imp,none,"used, > 12mos",never used,1,C+,C,Used,never used
+20,female,sophomore,co-ed dorm,no,very import,none,never used,never used,,B-,B,never used,never used
+21,female,senior,off-campus,yes,somewhat imp,none,never used,never used,1,B+,B,never used,never used
+22,female,sophomore,off-campus,yes,somewhat imp,none,"used, > 12mos",used past 30d,1,A-,A,Used,Current User
+20,male,junior,off-campus,yes,somewhat imp,once,"used, > 12mos","used, > 30day",0,B+,B,Used,Current User
+18,male,freshman,co-ed dorm,yes,not impt,none,never used,never used,0,B,B,never used,never used
+19,female,sophomore,1 sex dorm,no,important,none,never used,"used, > 30day",1,A-,A,never used,Current User
+22,female,junior,off-campus,yes,important,once,never used,"used, > 12mos",1,A-,A,never used,Previous User
+19,male,freshman,co-ed dorm,no,not impt,3-5 times,used past 30d,"used, > 30day",1,B+,B,Used,Current User
+22,male,senior,co-ed dorm,yes,not impt,3-5 times,never used,used past 30d,0,C,C,never used,Current User
+23,female,=> 5th yr,off-campus,no,somewhat imp,none,never used,"used, > 12mos",1,B+,B,never used,Previous User
+19,male,freshman,1 sex dorm,no,very import,none,never used,never used,,C+,C,never used,never used
+21,male,senior,off-campus,no,not impt,once,used past 30d,used past 30d,0,A-,A,Used,Current User
+19,female,freshman,co-ed dorm,no,not impt,none,"used, > 30day",used past 30d,0,B+,B,Used,Current User
+22,male,senior,off-campus,no,somewhat imp,once,never used,"used, > 30day",0,A-,A,never used,Current User
+21,female,junior,1 sex dorm,no,important,none,never used,never used,1,B,B,never used,never used
+19,female,sophomore,co-ed dorm,no,not impt,none,"used, > 30day",never used,0,B,B,Used,never used
+20,female,junior,co-ed dorm,no,somewhat imp,none,never used,never used,0,A-,A,never used,never used
+21,female,senior,off-campus,no,important,none,never used,never used,1,B-,B,never used,never used
+26,male,senior,off-campus,no,not impt,none,never used,used past 30d,0,C,C,never used,Current User
+21,male,senior,off-campus,no,important,none,never used,never used,1,A-,A,never used,never used
+23,male,=> 5th yr,off-campus,no,not impt,none,never used,never used,0,B,B,never used,never used
+26,female,sophomore,off-campus,no,somewhat imp,once,"used, > 12mos",never used,1,,,Used,never used
+21,female,junior,off-campus,no,very import,none,never used,never used,2 or more,A-,A,never used,never used
+19,male,sophomore,off-campus,no,important,3-5 times,used past 30d,used past 30d,1,C+,C,Used,Current User
+20,female,sophomore,1 sex dorm,no,very import,none,never used,never used,,B+,B,never used,never used
+24,male,senior,off-campus,no,not impt,none,never used,never used,1,A-,A,never used,never used
+20,female,sophomore,co-ed dorm,no,not impt,none,never used,"used, > 12mos",1,C+,C,never used,Previous User
+19,male,freshman,co-ed dorm,no,important,none,never used,never used,,B-,B,never used,never used
+20,female,sophomore,co-ed dorm,no,somewhat imp,none,never used,used past 30d,0,A-,A,never used,Current User
+26,male,=> 5th yr,off-campus,no,somewhat imp,none,"used, > 12mos",used past 30d,,A-,A,Used,Current User
+18,female,freshman,1 sex dorm,no,very import,once,never used,never used,,B-,B,never used,never used
+18,female,freshman,1 sex dorm,no,not impt,3-5 times,used past 30d,used past 30d,1,A-,A,Used,Current User
+21,male,senior,off-campus,yes,somewhat imp,3-5 times,"used, > 30day","used, > 12mos",1,B,B,Used,Previous User
+20,male,junior,oth univ hsg,no,not impt,none,never used,never used,1,B,B,never used,never used
+21,male,sophomore,off-campus,no,not impt,once,"used, > 12mos",never used,1,A-,A,Used,never used
+19,male,sophomore,1 sex dorm,no,somewhat imp,none,never used,never used,,B+,B,never used,never used
+18,male,freshman,off-campus,no,somewhat imp,none,never used,never used,,B,B,never used,never used
+26,female,senior,off-campus,no,important,none,"used, > 12mos",used past 30d,0,A,A,Used,Current User
+20,female,junior,off-campus,no,not impt,once,used past 30d,used past 30d,1,A-,A,Used,Current User
+20,female,junior,off-campus,no,somewhat imp,none,"used, > 12mos","used, > 12mos",0,B+,B,Used,Previous User
+26,male,junior,off-campus,no,not impt,none,"used, > 12mos","used, > 12mos",1,A,A,Used,Previous User
+21,female,junior,off-campus,no,not impt,none,"used, > 12mos",used past 30d,1,B+,B,Used,Current User
+20,female,junior,1 sex dorm,yes,very import,none,never used,"used, > 12mos",,A,A,never used,Previous User
+20,female,sophomore,1 sex dorm,no,somewhat imp,none,never used,never used,,B+,B,never used,never used
+24,female,=> 5th yr,frat/sorority,yes,,10 or more x,used past 30d,used past 30d,1,C+,C,Used,Current User
+20,male,sophomore,off-campus,no,not impt,once,"used, > 12mos",used past 30d,1,B,B,Used,Current User
+21,male,junior,off-campus,no,not impt,3-5 times,"used, > 12mos",used past 30d,1,B+,B,Used,Current User
+22,male,senior,off-campus,no,very import,none,never used,never used,1,A-,A,never used,never used
+19,female,freshman,1 sex dorm,no,important,none,never used,"used, > 30day",0,C+,C,never used,Current User
+21,female,sophomore,co-ed dorm,no,somewhat imp,none,used past 30d,used past 30d,1,B-,B,Used,Current User
+20,female,junior,off-campus,no,not impt,3-5 times,"used, > 30day",never used,1,B,B,Used,never used
+26,male,senior,,no,not impt,none,used past 30d,never used,1,B-,B,Used,never used
+24,female,=> 5th yr,off-campus,no,somewhat imp,3-5 times,never used,never used,1,B-,B,never used,never used
+22,male,senior,oth univ hsg,no,somewhat imp,none,never used,"used, > 30day",1,B-,B,never used,Current User
+,,,,,,none,never used,used past 30d,,B+,B,never used,Current User
+21,female,senior,co-ed dorm,no,not impt,twice,used past 30d,used past 30d,1,B,B,Used,Current User
+21,female,sophomore,1 sex dorm,no,not impt,none,never used,never used,,B+,B,never used,never used
+25,male,junior,off-campus,yes,somewhat imp,once,"used, > 12mos","used, > 12mos",0,B+,B,Used,Previous User
+,,,,,,once,never used,used past 30d,1,B,B,never used,Current User
+20,female,sophomore,co-ed dorm,no,very import,none,never used,never used,,C+,C,never used,never used
+21,male,senior,off-campus,no,somewhat imp,none,never used,never used,,A-,A,never used,never used
+18,male,freshman,co-ed dorm,no,not impt,3-5 times,never used,never used,,B,B,never used,never used
+20,female,sophomore,off-campus,no,not impt,none,never used,never used,1,B+,B,never used,never used
+19,female,freshman,1 sex dorm,no,not impt,twice,used past 30d,used past 30d,1,B-,B,Used,Current User
+22,female,senior,off-campus,no,not impt,none,"used, > 30day",used past 30d,1,B+,B,Used,Current User
+22,male,=> 5th yr,off-campus,no,not impt,none,"used, > 12mos","used, > 30day",0,A-,A,Used,Current User
+22,female,senior,off-campus,no,very import,none,never used,never used,0,B-,B,never used,never used
+26,female,freshman,off-campus,no,somewhat imp,none,never used,never used,1,B-,B,never used,never used
+19,female,sophomore,co-ed dorm,no,very import,none,"used, > 12mos","used, > 12mos",0,B+,B,Used,Previous User
+23,male,senior,,yes,not impt,10 or more x,used past 30d,used past 30d,2 or more,B-,B,Used,Current User
+23,female,,off-campus,no,somewhat imp,none,"used, > 12mos",never used,1,A,A,Used,never used
+18,female,freshman,1 sex dorm,no,important,none,never used,"used, > 30day",1,C+,C,never used,Current User
+20,male,junior,off-campus,yes,somewhat imp,once,never used,never used,,B-,B,never used,never used
+19,female,sophomore,co-ed dorm,no,somewhat imp,3-5 times,used past 30d,never used,0,B-,B,Used,never used
+19,female,sophomore,off-campus,no,important,none,never used,never used,0,A-,A,never used,never used
+23,female,sophomore,off-campus,no,somewhat imp,twice,used past 30d,used past 30d,1,C,C,Used,Current User
+18,female,freshman,1 sex dorm,no,not impt,none,used past 30d,used past 30d,,B,B,Used,Current User
+22,female,senior,off-campus,no,very import,none,never used,never used,1,A,A,never used,never used
+20,male,freshman,off-campus,no,not impt,none,never used,never used,,B,B,never used,never used
+18,female,freshman,co-ed dorm,no,not impt,twice,never used,never used,1,B,B,never used,never used
+20,female,junior,off-campus,no,somewhat imp,none,never used,never used,1,B,B,never used,never used
+21,female,senior,off-campus,no,somewhat imp,10 or more x,used past 30d,never used,1,B,B,Used,never used
+22,male,junior,off-campus,no,very import,3-5 times,used past 30d,"used, > 12mos",1,"no grade, dk",,Used,Previous User
+18,female,freshman,1 sex dorm,yes,important,once,never used,never used,0,B-,B,never used,never used
+20,female,junior,off-campus,no,important,,never used,never used,,B,B,never used,never used
+21,female,senior,off-campus,no,somewhat imp,6-9 times,used past 30d,used past 30d,2 or more,A-,A,Used,Current User
+19,male,sophomore,co-ed dorm,no,not impt,,never used,never used,1,B,B,never used,never used
+26,male,=> 5th yr,off-campus,no,not impt,none,never used,never used,1,C-,C,never used,never used
+20,female,junior,off-campus,no,very import,none,never used,never used,,B+,B,never used,never used
+19,male,freshman,co-ed dorm,no,somewhat imp,none,never used,never used,,B-,B,never used,never used
+23,,sophomore,off-campus,no,not impt,twice,used past 30d,used past 30d,1,C,C,Used,Current User
+19,male,sophomore,off-campus,no,not impt,,"used, > 30day",used past 30d,0,B,B,Used,Current User
+19,female,sophomore,off-campus,no,important,none,never used,"used, > 30day",0,B,B,never used,Current User
+19,male,sophomore,off-campus,no,very import,none,never used,never used,1,C+,C,never used,never used
+20,male,sophomore,off-campus,no,somewhat imp,3-5 times,used past 30d,used past 30d,0,B,B,Used,Current User
+20,female,sophomore,co-ed dorm,no,somewhat imp,3-5 times,never used,"used, > 30day",0,B+,B,never used,Current User
+19,female,sophomore,off-campus,yes,very import,once,never used,"used, > 12mos",0,B,B,never used,Previous User
+20,male,sophomore,co-ed dorm,no,important,twice,never used,"used, > 12mos",0,A,A,never used,Previous User
+,female,junior,oth univ hsg,no,important,none,never used,never used,,B-,B,never used,never used
+19,female,freshman,co-ed dorm,yes,important,3-5 times,never used,"used, > 30day",1,A-,A,never used,Current User
+20,female,sophomore,co-ed dorm,no,somewhat imp,none,"used, > 12mos","used, > 12mos",1,B,B,Used,Previous User
+26,female,senior,off-campus,no,somewhat imp,none,"used, > 12mos","used, > 12mos",1,B+,B,Used,Previous User
+21,male,junior,off-campus,no,not impt,3-5 times,used past 30d,used past 30d,2 or more,B,B,Used,Current User
+24,male,senior,co-ed dorm,no,not impt,3-5 times,"used, > 30day","used, > 12mos",1,B+,B,Used,Previous User
+20,female,sophomore,co-ed dorm,no,not impt,none,never used,never used,,B-,B,never used,never used
+23,female,=> 5th yr,off-campus,yes,important,once,"used, > 30day",used past 30d,1,B,B,Used,Current User
+20,female,sophomore,co-ed dorm,no,important,none,never used,"used, > 12mos",,C+,C,never used,Previous User
+20,female,junior,co-ed dorm,no,somewhat imp,3-5 times,never used,never used,1,B-,B,never used,never used
+21,male,senior,off-campus,no,somewhat imp,once,never used,never used,1,B-,B,never used,never used
+19,female,sophomore,co-ed dorm,no,not impt,none,never used,never used,1,B+,B,never used,never used
+20,female,junior,off-campus,no,important,none,never used,never used,0,B+,B,never used,never used
+20,female,junior,co-ed dorm,no,somewhat imp,none,never used,"used, > 30day",0,B-,B,never used,Current User
+21,female,senior,co-ed dorm,no,not impt,once,never used,never used,0,A,A,never used,never used
+23,male,=> 5th yr,off-campus,no,important,3-5 times,used past 30d,used past 30d,1,B+,B,Used,Current User
+18,male,freshman,co-ed dorm,no,very import,,used past 30d,used past 30d,0,A-,A,Used,Current User
+21,male,junior,off-campus,yes,somewhat imp,once,,"used, > 30day",0,C+,C,,Current User
+22,male,junior,off-campus,yes,not impt,3-5 times,used past 30d,used past 30d,1,B-,B,Used,Current User
+22,male,=> 5th yr,off-campus,yes,somewhat imp,3-5 times,"used, > 12mos",used past 30d,0,C,C,Used,Current User
+19,female,freshman,co-ed dorm,no,important,once,"used, > 12mos","used, > 12mos",,A,A,Used,Previous User
+19,female,freshman,off-campus,no,not impt,none,never used,"used, > 12mos",,B-,B,never used,Previous User
+26,male,senior,off-campus,no,not impt,once,"used, > 30day",used past 30d,1,B,B,Used,Current User
+20,male,sophomore,frat/sorority,yes,somewhat imp,3-5 times,never used,never used,0,B,B,never used,never used
+19,male,sophomore,off-campus,no,important,none,never used,never used,1,C,C,never used,never used
+21,female,senior,off-campus,no,somewhat imp,none,never used,never used,1,C+,C,never used,never used
+20,male,junior,1 sex dorm,no,somewhat imp,none,never used,never used,,A-,A,never used,never used
+21,female,senior,off-campus,yes,important,none,never used,never used,,A,A,never used,never used
+21,male,junior,,no,important,none,"used, > 12mos","used, > 12mos",1,A-,A,Used,Previous User
+20,male,sophomore,oth univ hsg,no,not impt,3-5 times,used past 30d,used past 30d,1,A-,A,Used,Current User
+23,female,senior,off-campus,no,very import,none,never used,never used,1,B,B,never used,never used
+21,female,junior,off-campus,no,important,none,never used,never used,,B+,B,never used,never used
+22,male,sophomore,off-campus,no,not impt,none,never used,never used,,B+,B,never used,never used
+21,male,senior,off-campus,no,not impt,twice,never used,never used,1,B+,B,never used,never used
+20,female,sophomore,off-campus,yes,important,once,"used, > 30day",,0,B,B,Used,
+19,female,freshman,co-ed dorm,no,somewhat imp,once,used past 30d,used past 30d,,A,A,Used,Current User
+19,female,sophomore,co-ed dorm,no,somewhat imp,none,"used, > 30day","used, > 12mos",0,B,B,Used,Previous User
+18,female,freshman,co-ed dorm,no,very import,none,never used,never used,,A-,A,never used,never used
+24,male,junior,off-campus,no,very import,none,never used,used past 30d,,B,B,never used,Current User
+19,female,freshman,off-campus,no,not impt,none,never used,never used,1,A,A,never used,never used
+20,male,freshman,1 sex dorm,no,somewhat imp,3-5 times,"used, > 12mos",never used,2 or more,C,C,Used,never used
+24,male,sophomore,off-campus,no,important,none,used past 30d,never used,1,C,C,Used,never used
+21,female,junior,off-campus,no,somewhat imp,none,never used,never used,1,C+,C,never used,never used
+18,female,freshman,co-ed dorm,no,important,3-5 times,never used,never used,,C+,C,never used,never used
+23,female,junior,off-campus,no,very import,none,"used, > 12mos",used past 30d,1,B+,B,Used,Current User
+20,female,junior,off-campus,no,important,none,"used, > 12mos",used past 30d,1,A-,A,Used,Current User
+22,male,senior,off-campus,no,somewhat imp,none,never used,never used,,B,B,never used,never used
+21,male,sophomore,off-campus,no,very import,once,"used, > 12mos",never used,1,B-,B,Used,never used
+20,female,sophomore,off-campus,no,not impt,none,never used,never used,,A,A,never used,never used
+26,male,junior,off-campus,no,not impt,none,"used, > 12mos",never used,1,B-,B,Used,never used
+20,male,junior,frat/sorority,yes,not impt,once,"used, > 12mos","used, > 12mos",2 or more,B,B,Used,Previous User
+20,female,junior,off-campus,no,somewhat imp,once,"used, > 30day","used, > 12mos",,B-,B,Used,Previous User
+18,female,freshman,1 sex dorm,yes,important,none,never used,never used,1,B-,B,never used,never used
+20,male,junior,frat/sorority,yes,somewhat imp,none,never used,never used,1,B,B,never used,never used
+20,male,sophomore,co-ed dorm,no,somewhat imp,none,never used,never used,,C,C,never used,never used
+19,male,freshman,off-campus,no,not impt,once,never used,"used, > 12mos",1,B-,B,never used,Previous User
+19,male,sophomore,co-ed dorm,no,,none,never used,"used, > 30day",,A-,A,never used,Current User
+26,female,freshman,off-campus,no,important,none,never used,never used,1,B+,B,never used,never used
+26,female,=> 5th yr,off-campus,no,not impt,none,"used, > 12mos","used, > 30day",0,A-,A,Used,Current User
+19,female,freshman,1 sex dorm,no,important,none,never used,never used,,B,B,never used,never used
+19,male,sophomore,off-campus,no,somewhat imp,3-5 times,never used,"used, > 30day",1,B-,B,never used,Current User
+26,female,=> 5th yr,off-campus,no,very import,none,never used,never used,0,B+,B,never used,never used
+19,female,sophomore,co-ed dorm,no,somewhat imp,once,"used, > 12mos",never used,0,A,A,Used,never used
+21,male,junior,off-campus,no,important,none,never used,never used,0,B+,B,never used,never used
+20,female,senior,oth univ hsg,no,not impt,none,used past 30d,used past 30d,2 or more,A-,A,Used,Current User
+18,male,freshman,oth univ hsg,no,somewhat imp,none,never used,never used,1,B,B,never used,never used
+19,male,freshman,co-ed dorm,no,very import,3-5 times,used past 30d,never used,0,B-,B,Used,never used
+19,male,freshman,co-ed dorm,no,somewhat imp,none,never used,never used,,B-,B,never used,never used
+21,male,senior,off-campus,no,not impt,none,"used, > 12mos","used, > 12mos",1,B,B,Used,Previous User
+21,female,senior,off-campus,no,somewhat imp,none,"used, > 30day",never used,1,A,A,Used,never used
+19,female,junior,off-campus,no,very import,none,never used,never used,,A-,A,never used,never used
+23,male,=> 5th yr,off-campus,no,somewhat imp,once,used past 30d,"used, > 12mos",0,B+,B,Used,Previous User
+25,female,senior,off-campus,no,not impt,twice,used past 30d,used past 30d,1,B,B,Used,Current User
+21,female,senior,off-campus,no,not impt,none,used past 30d,used past 30d,0,B+,B,Used,Current User
+20,male,junior,co-op,no,important,once,never used,"used, > 30day",,A-,A,never used,Current User
+21,female,senior,frat/sorority,yes,somewhat imp,3-5 times,used past 30d,used past 30d,1,C+,C,Used,Current User
+21,female,senior,off-campus,no,very import,none,never used,never used,1,A-,A,never used,never used
+21,female,senior,off-campus,no,not impt,twice,"used, > 12mos",never used,1,B-,B,Used,never used
+26,female,junior,off-campus,no,important,none,never used,never used,1,A-,A,never used,never used
+26,male,sophomore,off-campus,no,important,none,never used,used past 30d,1,A-,A,never used,Current User
+19,female,freshman,1 sex dorm,no,not impt,none,never used,never used,,A-,A,never used,never used
+19,female,sophomore,off-campus,no,somewhat imp,none,never used,never used,,B+,B,never used,never used
+18,male,freshman,co-ed dorm,no,not impt,3-5 times,never used,never used,1,B+,B,never used,never used
+21,female,senior,off-campus,no,somewhat imp,none,never used,never used,,A-,A,never used,never used
+22,male,=> 5th yr,off-campus,no,very import,none,"used, > 12mos","used, > 12mos",0,B-,B,Used,Previous User
+22,male,senior,off-campus,no,important,once,never used,"used, > 12mos",1,B+,B,never used,Previous User
+18,male,freshman,co-ed dorm,no,very import,3-5 times,"used, > 30day",used past 30d,1,B,B,Used,Current User
+23,male,=> 5th yr,off-campus,no,somewhat imp,none,"used, > 12mos","used, > 12mos",1,B-,B,Used,Previous User
+22,female,=> 5th yr,off-campus,no,somewhat imp,none,never used,never used,0,A-,A,never used,never used
+21,male,senior,co-ed dorm,no,not impt,twice,never used,never used,1,A,A,never used,never used
+26,female,senior,off-campus,no,very import,none,never used,never used,1,B+,B,never used,never used
+22,female,senior,off-campus,no,not impt,none,never used,never used,1,A,A,never used,never used
+19,male,sophomore,co-ed dorm,no,,6-9 times,"used, > 30day",never used,2 or more,C+,C,Used,never used
+21,female,senior,off-campus,no,not impt,none,never used,never used,0,A-,A,never used,never used
+26,female,sophomore,off-campus,no,important,3-5 times,"used, > 12mos",used past 30d,1,A-,A,Used,Current User
+20,female,freshman,co-ed dorm,yes,not impt,none,never used,"used, > 12mos",0,A-,A,never used,Previous User
+19,male,sophomore,off-campus,no,not impt,once,never used,"used, > 30day",0,B+,B,never used,Current User
+25,female,senior,off-campus,no,not impt,none,used past 30d,never used,1,A,A,Used,never used
+20,female,junior,off-campus,no,somewhat imp,none,never used,never used,1,C-,C,never used,never used
+26,male,sophomore,off-campus,no,not impt,twice,"used, > 12mos","used, > 12mos",1,A,A,Used,Previous User
+22,male,junior,co-ed dorm,no,very import,none,never used,never used,1,C+,C,never used,never used
+20,male,sophomore,off-campus,no,not impt,none,never used,never used,,B-,B,never used,never used
+26,female,senior,off-campus,no,somewhat imp,none,"used, > 12mos",never used,1,B+,B,Used,never used
+19,male,sophomore,frat/sorority,yes,important,none,"used, > 12mos",used past 30d,0,A-,A,Used,Current User
+20,male,junior,off-campus,no,somewhat imp,none,never used,used past 30d,,B-,B,never used,Current User
+23,female,=> 5th yr,off-campus,no,very import,none,never used,never used,,B,B,never used,never used
+18,male,freshman,1 sex dorm,no,very import,none,never used,used past 30d,,A-,A,never used,Current User
+19,male,freshman,co-ed dorm,no,very import,none,never used,never used,,B,B,never used,never used
+19,male,freshman,off-campus,no,not impt,none,used past 30d,used past 30d,0,A,A,Used,Current User
+20,male,junior,off-campus,yes,not impt,none,,,,"no grade, dk",,,
+19,female,freshman,co-ed dorm,no,very import,none,never used,never used,,B-,B,never used,never used
+25,female,=> 5th yr,off-campus,no,not impt,none,"used, > 12mos",never used,1,B,B,Used,never used
+26,female,senior,off-campus,no,not impt,none,never used,"used, > 12mos",0,A-,A,never used,Previous User
+19,male,sophomore,co-ed dorm,no,not impt,once,used past 30d,never used,1,C+,C,Used,never used
+18,female,freshman,1 sex dorm,no,somewhat imp,none,never used,"used, > 12mos",1,B+,B,never used,Previous User
+22,female,senior,off-campus,no,somewhat imp,once,"used, > 12mos","used, > 12mos",0,B+,B,Used,Previous User
+22,male,senior,off-campus,no,not impt,twice,never used,used past 30d,1,A-,A,never used,Current User
+22,female,=> 5th yr,off-campus,no,not impt,none,never used,"used, > 12mos",1,A-,A,never used,Previous User
+20,male,sophomore,off-campus,no,not impt,once,used past 30d,"used, > 12mos",1,C+,C,Used,Previous User
+20,female,sophomore,co-ed dorm,no,somewhat imp,none,never used,never used,0,B+,B,never used,never used
+19,female,sophomore,co-ed dorm,no,very import,none,never used,"used, > 30day",0,A-,A,never used,Current User
+19,male,sophomore,off-campus,no,somewhat imp,none,never used,"used, > 12mos",,B,B,never used,Previous User
+22,female,=> 5th yr,1 sex dorm,no,important,once,"used, > 12mos","used, > 30day",1,C+,C,Used,Current User
+18,male,freshman,oth univ hsg,no,not impt,none,used past 30d,used past 30d,1,B+,B,Used,Current User
+25,male,senior,off-campus,no,somewhat imp,,never used,never used,,B-,B,never used,never used
+26,female,sophomore,off-campus,no,very import,none,"used, > 12mos",never used,1,B+,B,Used,never used
+18,male,freshman,co-ed dorm,no,not impt,3-5 times,never used,never used,,B,B,never used,never used
+19,female,freshman,off-campus,no,somewhat imp,none,never used,never used,,B,B,never used,never used
+19,female,sophomore,1 sex dorm,no,somewhat imp,once,never used,never used,0,B+,B,never used,never used
+18,female,freshman,co-ed dorm,yes,somewhat imp,none,"used, > 12mos",never used,,B-,B,Used,never used
+20,female,sophomore,off-campus,yes,very import,none,never used,"used, > 30day",1,B-,B,never used,Current User
+26,female,=> 5th yr,off-campus,no,not impt,none,"used, > 30day",never used,0,B,B,Used,never used
+20,female,sophomore,frat/sorority,yes,somewhat imp,twice,never used,never used,0,A-,A,never used,never used
+26,male,senior,off-campus,no,not impt,none,"used, > 12mos","used, > 12mos",1,A-,A,Used,Previous User
+21,male,senior,co-ed dorm,no,somewhat imp,6-9 times,never used,"used, > 30day",0,B,B,never used,Current User
+21,male,senior,co-ed dorm,no,important,3-5 times,never used,never used,0,B,B,never used,never used
+21,male,junior,co-ed dorm,yes,somewhat imp,3-5 times,never used,used past 30d,0,B,B,never used,Current User
+20,female,sophomore,off-campus,no,important,none,never used,never used,,C+,C,never used,never used
+20,male,junior,off-campus,no,not impt,none,never used,never used,,A-,A,never used,never used
+21,female,senior,frat/sorority,yes,somewhat imp,3-5 times,"used, > 30day","used, > 30day",1,B,B,Used,Current User
+18,male,freshman,1 sex dorm,no,not impt,twice,used past 30d,"used, > 30day",0,B,B,Used,Current User
+21,male,junior,co-ed dorm,no,somewhat imp,none,never used,never used,,B,B,never used,never used
+26,male,junior,off-campus,no,very import,none,never used,never used,,B-,B,never used,never used
+21,male,senior,off-campus,no,not impt,6-9 times,used past 30d,"used, > 30day",0,C+,C,Used,Current User
+18,female,freshman,co-ed dorm,yes,not impt,3-5 times,used past 30d,used past 30d,1,C,C,Used,Current User
+20,male,sophomore,co-ed dorm,no,somewhat imp,none,never used,never used,,A,A,never used,never used
+22,male,=> 5th yr,off-campus,no,not impt,none,never used,never used,1,B-,B,never used,never used
+23,female,=> 5th yr,off-campus,no,very import,3-5 times,never used,"used, > 30day",2 or more,"no grade, dk",,never used,Current User
+21,male,senior,co-ed dorm,no,somewhat imp,twice,never used,never used,1,B-,B,never used,never used
+19,female,freshman,1 sex dorm,no,somewhat imp,once,"used, > 12mos","used, > 12mos",1,B,B,Used,Previous User
+20,male,junior,off-campus,no,somewhat imp,none,never used,never used,1,A-,A,never used,never used
+26,male,junior,off-campus,no,not impt,none,"used, > 30day","used, > 12mos",1,B,B,Used,Previous User
+22,male,junior,off-campus,no,important,3-5 times,used past 30d,used past 30d,1,C-,C,Used,Current User
+22,male,senior,co-ed dorm,no,not impt,none,"used, > 12mos","used, > 12mos",,A,A,Used,Previous User
+22,female,senior,off-campus,no,not impt,3-5 times,"used, > 30day","used, > 12mos",0,B+,B,Used,Previous User
+24,male,senior,off-campus,no,somewhat imp,none,never used,never used,1,A-,A,never used,never used
+22,female,freshman,off-campus,no,important,once,"used, > 12mos",used past 30d,1,B-,B,Used,Current User
+23,female,junior,off-campus,no,important,none,used past 30d,used past 30d,1,A-,A,Used,Current User
+19,female,freshman,co-ed dorm,no,somewhat imp,none,never used,used past 30d,1,A,A,never used,Current User
+20,female,junior,1 sex dorm,no,very import,none,never used,never used,1,B+,B,never used,never used
+21,female,senior,off-campus,no,very import,none,never used,never used,0,A,A,never used,never used
+18,female,freshman,off-campus,no,very import,none,never used,never used,0,D,D,never used,never used
+20,male,junior,off-campus,no,somewhat imp,6-9 times,"used, > 12mos",used past 30d,0,B+,B,Used,Current User
+18,male,freshman,co-ed dorm,yes,not impt,twice,used past 30d,never used,1,A-,A,Used,never used
+22,male,=> 5th yr,off-campus,yes,important,twice,"used, > 30day","used, > 12mos",1,B+,B,Used,Previous User
+22,female,senior,off-campus,no,not impt,none,"used, > 30day",used past 30d,1,C+,C,Used,Current User
+26,male,=> 5th yr,off-campus,no,not impt,twice,used past 30d,"used, > 30day",0,B+,B,Used,Current User
+22,female,junior,off-campus,no,not impt,once,used past 30d,used past 30d,1,B+,B,Used,Current User
+19,female,sophomore,off-campus,yes,somewhat imp,none,never used,"used, > 12mos",1,B+,B,never used,Previous User
+18,male,freshman,co-ed dorm,no,not impt,none,used past 30d,never used,,C-,C,Used,never used
+20,male,freshman,off-campus,no,not impt,once,never used,"used, > 12mos",1,C,C,never used,Previous User
+26,female,senior,off-campus,no,not impt,none,"used, > 30day",never used,0,A-,A,Used,never used
+20,female,sophomore,1 sex dorm,no,very import,none,never used,never used,1,A-,A,never used,never used
+18,female,freshman,frat/sorority,yes,important,once,never used,never used,,A,A,never used,never used
+22,male,=> 5th yr,off-campus,no,not impt,twice,used past 30d,never used,0,B-,B,Used,never used
+23,female,junior,off-campus,no,somewhat imp,none,never used,used past 30d,1,A-,A,never used,Current User
+23,male,=> 5th yr,off-campus,no,not impt,twice,never used,"used, > 30day",1,B,B,never used,Current User
+23,male,senior,off-campus,no,not impt,none,"used, > 30day",never used,1,A,A,Used,never used
+,female,freshman,off-campus,no,somewhat imp,none,"used, > 30day",never used,1,C,C,Used,never used
+22,male,senior,oth univ hsg,no,important,none,never used,never used,0,B+,B,never used,never used
+26,female,junior,off-campus,no,very import,none,"used, > 12mos","used, > 12mos",1,B+,B,Used,Previous User
+22,male,senior,off-campus,no,not impt,10 or more x,"used, > 12mos",used past 30d,1,B,B,Used,Current User
+19,male,sophomore,co-ed dorm,no,important,3-5 times,never used,never used,1,B-,B,never used,never used
+20,female,sophomore,co-ed dorm,yes,important,once,never used,"used, > 12mos",2 or more,C+,C,never used,Previous User
+24,male,senior,off-campus,no,somewhat imp,once,"used, > 12mos","used, > 12mos",1,A,A,Used,Previous User
+22,female,senior,off-campus,yes,important,3-5 times,"used, > 12mos",used past 30d,,C+,C,Used,Current User
+21,female,senior,off-campus,no,not impt,none,never used,never used,,B,B,never used,never used
+20,female,junior,off-campus,no,not impt,twice,never used,never used,1,A-,A,never used,never used
+21,female,junior,co-ed dorm,no,very import,none,never used,never used,1,B-,B,never used,never used
+20,male,junior,off-campus,no,not impt,none,never used,never used,,B,B,never used,never used
+18,male,freshman,co-ed dorm,no,not impt,3-5 times,used past 30d,used past 30d,0,C-,C,Used,Current User
+18,female,freshman,1 sex dorm,no,not impt,none,used past 30d,used past 30d,,B+,B,Used,Current User
+20,male,sophomore,1 sex dorm,no,important,once,never used,never used,,B-,B,never used,never used
+20,male,junior,off-campus,no,not impt,3-5 times,never used,never used,1,B+,B,never used,never used
+21,male,senior,off-campus,no,somewhat imp,10 or more x,used past 30d,used past 30d,,C,C,Used,Current User
+19,female,freshman,off-campus,no,important,none,never used,never used,1,B,B,never used,never used
+18,female,freshman,co-ed dorm,no,important,none,never used,never used,1,C-,C,never used,never used
+21,male,senior,off-campus,no,somewhat imp,none,never used,never used,1,A,A,never used,never used
+26,female,sophomore,off-campus,no,somewhat imp,none,never used,never used,,A-,A,never used,never used
+19,female,sophomore,co-ed dorm,no,important,none,never used,never used,1,A,A,never used,never used
+19,male,freshman,off-campus,no,not impt,10 or more x,used past 30d,"used, > 12mos",1,B-,B,Used,Previous User
+26,male,=> 5th yr,off-campus,no,not impt,none,"used, > 30day","used, > 30day",2 or more,C,C,Used,Current User
+24,male,=> 5th yr,off-campus,no,not impt,once,never used,never used,1,A-,A,never used,never used
+22,female,senior,co-ed dorm,yes,somewhat imp,none,"used, > 12mos",never used,1,B,B,Used,never used
+18,female,freshman,1 sex dorm,no,important,none,never used,never used,,B,B,never used,never used
+21,female,junior,oth univ hsg,no,important,none,"used, > 12mos","used, > 12mos",0,B+,B,Used,Previous User
+21,male,junior,off-campus,no,not impt,none,"used, > 12mos",never used,1,B-,B,Used,never used
+19,female,freshman,co-ed dorm,no,somewhat imp,once,"used, > 30day",used past 30d,1,B-,B,Used,Current User
+20,male,sophomore,off-campus,no,not impt,none,used past 30d,used past 30d,1,C+,C,Used,Current User
+24,female,senior,off-campus,no,not impt,none,"used, > 12mos","used, > 12mos",1,A,A,Used,Previous User
+23,male,=> 5th yr,off-campus,no,somewhat imp,once,never used,never used,0,A-,A,never used,never used
+26,male,=> 5th yr,off-campus,no,very import,none,never used,"used, > 12mos",1,B,B,never used,Previous User
+21,female,senior,off-campus,yes,important,once,"used, > 12mos",used past 30d,1,B+,B,Used,Current User
+21,male,sophomore,co-ed dorm,yes,not impt,6-9 times,used past 30d,used past 30d,1,B-,B,Used,Current User
+19,female,sophomore,co-ed dorm,no,important,once,never used,"used, > 30day",,A-,A,never used,Current User
+20,female,sophomore,1 sex dorm,no,not impt,3-5 times,"used, > 30day",used past 30d,0,B+,B,Used,Current User
+19,female,sophomore,1 sex dorm,no,very import,none,never used,never used,0,B-,B,never used,never used
+19,female,sophomore,off-campus,no,important,none,never used,never used,0,C+,C,never used,never used
+25,female,freshman,off-campus,no,important,3-5 times,"used, > 12mos","used, > 12mos",1,B+,B,Used,Previous User
+22,male,senior,off-campus,no,important,twice,never used,never used,1,A,A,never used,never used
+20,female,junior,off-campus,no,somewhat imp,once,never used,never used,1,A-,A,never used,never used
+18,male,freshman,co-ed dorm,no,not impt,,,,,,,,
+22,male,senior,off-campus,no,very import,none,never used,never used,,A,A,never used,never used
+18,male,freshman,co-ed dorm,no,important,none,never used,"used, > 12mos",,C+,C,never used,Previous User
+21,male,senior,frat/sorority,yes,not impt,3-5 times,"used, > 30day",never used,1,B-,B,Used,never used
+18,female,freshman,co-ed dorm,no,somewhat imp,3-5 times,never used,never used,1,B-,B,never used,never used
+19,female,freshman,co-ed dorm,yes,somewhat imp,once,never used,never used,1,A-,A,never used,never used
+19,female,freshman,co-ed dorm,no,somewhat imp,none,"used, > 30day",used past 30d,,B,B,Used,Current User
+18,female,freshman,off-campus,no,somewhat imp,none,never used,never used,1,A-,A,never used,never used
+22,female,senior,frat/sorority,yes,important,once,never used,never used,1,A-,A,never used,never used
+21,male,junior,off-campus,no,important,none,"used, > 12mos","used, > 30day",1,B,B,Used,Current User
+20,female,sophomore,off-campus,,not impt,none,never used,"used, > 30day",1,A-,A,never used,Current User
+22,male,senior,off-campus,no,not impt,none,"used, > 12mos",used past 30d,1,B+,B,Used,Current User
+18,female,sophomore,1 sex dorm,no,not impt,none,never used,never used,,B,B,never used,never used
+20,female,junior,off-campus,no,very import,none,never used,never used,,B-,B,never used,never used
+24,male,=> 5th yr,off-campus,no,not impt,once,used past 30d,used past 30d,1,B,B,Used,Current User
+20,male,freshman,off-campus,no,somewhat imp,none,never used,"used, > 30day",1,B-,B,never used,Current User
+20,female,junior,1 sex dorm,no,somewhat imp,none,never used,never used,1,C-,C,never used,never used
+19,male,sophomore,oth univ hsg,no,important,none,never used,never used,2 or more,B-,B,never used,never used
+22,female,=> 5th yr,off-campus,yes,not impt,twice,used past 30d,never used,1,B,B,Used,never used
+21,female,junior,1 sex dorm,no,important,twice,never used,"used, > 12mos",1,B,B,never used,Previous User
+20,male,junior,1 sex dorm,no,very import,none,never used,never used,,A-,A,never used,never used
+18,female,freshman,1 sex dorm,no,somewhat imp,6-9 times,"used, > 12mos",used past 30d,1,C+,C,Used,Current User
+26,male,freshman,off-campus,no,not impt,none,"used, > 12mos","used, > 12mos",1,B+,B,Used,Previous User
+21,male,junior,off-campus,no,not impt,none,never used,"used, > 12mos",1,B-,B,never used,Previous User
+21,female,senior,off-campus,no,very import,none,never used,never used,,A,A,never used,never used
+21,male,junior,oth univ hsg,no,somewhat imp,none,never used,never used,,B,B,never used,never used
+26,female,=> 5th yr,off-campus,no,not impt,none,"used, > 12mos","used, > 12mos",0,B,B,Used,Previous User
+24,female,senior,off-campus,no,important,none,never used,never used,,B,B,never used,never used
+19,male,sophomore,off-campus,no,not impt,once,"used, > 30day","used, > 12mos",1,B-,B,Used,Previous User
+21,female,freshman,off-campus,no,important,none,never used,never used,,B-,B,never used,never used
+26,female,junior,off-campus,no,not impt,none,used past 30d,used past 30d,1,B+,B,Used,Current User
+25,female,senior,off-campus,no,very import,none,never used,never used,1,B,B,never used,never used
+22,male,senior,frat/sorority,yes,not impt,twice,never used,never used,1,B+,B,never used,never used
+24,female,junior,off-campus,no,very import,none,never used,never used,1,B,B,never used,never used
+21,female,senior,off-campus,no,,once,"used, > 30day","used, > 30day",0,A-,A,Used,Current User
+22,male,senior,frat/sorority,yes,not impt,6-9 times,used past 30d,never used,1,B+,B,Used,never used
+19,female,freshman,co-ed dorm,no,somewhat imp,none,never used,"used, > 12mos",,A-,A,never used,Previous User
+23,female,junior,off-campus,no,somewhat imp,none,never used,"used, > 12mos",1,A-,A,never used,Previous User
+20,female,junior,oth univ hsg,yes,somewhat imp,once,never used,used past 30d,0,B,B,never used,Current User
+25,female,senior,off-campus,no,not impt,none,used past 30d,never used,1,A,A,Used,never used
+19,male,sophomore,1 sex dorm,no,somewhat imp,none,never used,never used,,B+,B,never used,never used
+21,male,junior,off-campus,no,not impt,once,never used,never used,1,C+,C,never used,never used
+26,female,,off-campus,no,not impt,none,"used, > 12mos",used past 30d,1,A,A,Used,Current User
+22,male,senior,off-campus,no,important,once,"used, > 12mos",never used,1,B,B,Used,never used
+22,male,senior,off-campus,no,very import,twice,"used, > 12mos",never used,0,A,A,Used,never used
+26,male,=> 5th yr,off-campus,no,not impt,none,"used, > 12mos","used, > 12mos",1,A-,A,Used,Previous User
+18,female,freshman,off-campus,no,very import,none,"used, > 30day",used past 30d,1,B,B,Used,Current User
+23,male,senior,off-campus,no,somewhat imp,none,"used, > 12mos",used past 30d,2 or more,B-,B,Used,Current User
+20,male,sophomore,off-campus,no,important,none,never used,never used,1,B-,B,never used,never used
+22,male,senior,off-campus,no,not impt,none,never used,never used,0,A,A,never used,never used
+24,male,=> 5th yr,off-campus,no,not impt,none,never used,never used,1,B+,B,never used,never used
+23,male,=> 5th yr,off-campus,no,very import,none,never used,never used,,B+,B,never used,never used
+22,male,senior,off-campus,no,important,none,"used, > 12mos",never used,0,B,B,Used,never used
+21,female,sophomore,off-campus,no,somewhat imp,none,never used,never used,1,A-,A,never used,never used
+21,female,senior,off-campus,no,important,once,used past 30d,never used,1,B-,B,Used,never used
+22,male,senior,frat/sorority,yes,somewhat imp,none,never used,"used, > 30day",1,B+,B,never used,Current User
+24,female,senior,off-campus,no,not impt,none,,,,A,A,,
+20,female,junior,1 sex dorm,no,somewhat imp,none,never used,"used, > 12mos",1,A-,A,never used,Previous User
+19,male,freshman,co-ed dorm,no,very import,none,never used,never used,,A,A,never used,never used
+23,female,junior,off-campus,no,important,none,never used,"used, > 12mos",,B,B,never used,Previous User
+20,female,junior,co-ed dorm,no,important,once,never used,never used,,C,C,never used,never used
+22,,senior,off-campus,no,not impt,twice,"used, > 30day","used, > 30day",1,B,B,Used,Current User
+21,male,senior,co-ed dorm,no,somewhat imp,none,never used,never used,,A-,A,never used,never used
+20,male,sophomore,1 sex dorm,no,important,twice,never used,never used,1,B+,B,never used,never used
+21,female,senior,off-campus,no,somewhat imp,none,never used,never used,,C+,C,never used,never used
+19,female,sophomore,co-ed dorm,no,important,none,never used,never used,,B+,B,never used,never used
+22,male,sophomore,off-campus,no,very import,,never used,never used,,C,C,never used,never used
+22,female,senior,co-op,no,somewhat imp,none,"used, > 30day","used, > 30day",1,B,B,Used,Current User
+20,male,sophomore,off-campus,yes,not impt,none,never used,never used,0,"no grade, dk",,never used,never used
+19,female,freshman,1 sex dorm,no,very import,once,"used, > 30day",never used,2 or more,C+,C,Used,never used
+21,female,senior,off-campus,no,somewhat imp,none,never used,never used,1,B+,B,never used,never used
+19,male,freshman,co-ed dorm,yes,important,3-5 times,"used, > 30day",used past 30d,2 or more,B-,B,Used,Current User
+22,female,senior,off-campus,no,somewhat imp,none,never used,"used, > 12mos",1,A-,A,never used,Previous User
+22,male,junior,off-campus,no,somewhat imp,none,never used,never used,1,C+,C,never used,never used
+21,female,senior,1 sex dorm,no,,none,never used,never used,,B+,B,never used,never used
+19,female,sophomore,1 sex dorm,no,very import,none,never used,never used,,A,A,never used,never used
+22,male,senior,off-campus,no,not impt,6-9 times,never used,"used, > 12mos",1,B+,B,never used,Previous User
+21,female,junior,off-campus,yes,very import,none,never used,never used,0,B-,B,never used,never used
+26,female,sophomore,off-campus,no,somewhat imp,none,"used, > 12mos",used past 30d,1,B,B,Used,Current User
+20,male,junior,off-campus,no,not impt,none,"used, > 30day",used past 30d,1,A-,A,Used,Current User
+23,male,senior,off-campus,no,very import,none,"used, > 12mos",never used,0,B+,B,Used,never used
+26,female,junior,off-campus,no,not impt,once,"used, > 12mos",used past 30d,1,A,A,Used,Current User
+20,female,junior,co-ed dorm,yes,not impt,twice,"used, > 30day",used past 30d,0,B,B,Used,Current User
+20,female,junior,off-campus,no,not impt,twice,"used, > 12mos",used past 30d,1,A,A,Used,Current User
+20,male,sophomore,co-ed dorm,no,very import,none,never used,never used,1,B-,B,never used,never used
+21,female,junior,off-campus,no,important,none,"used, > 12mos",never used,,B,B,Used,never used
+19,male,freshman,off-campus,yes,somewhat imp,3-5 times,"used, > 12mos",used past 30d,1,B+,B,Used,Current User
+21,male,sophomore,off-campus,no,somewhat imp,once,never used,"used, > 12mos",0,B+,B,never used,Previous User
+21,female,junior,off-campus,no,not impt,none,"used, > 30day",never used,1,A,A,Used,never used
+23,female,=> 5th yr,off-campus,yes,not impt,none,"used, > 30day",never used,0,A-,A,Used,never used
+18,female,freshman,off-campus,yes,not impt,none,never used,used past 30d,1,B-,B,never used,Current User
+26,male,sophomore,off-campus,no,not impt,none,"used, > 12mos","used, > 12mos",0,A-,A,Used,Previous User
+20,female,junior,frat/sorority,yes,not impt,once,never used,never used,1,A-,A,never used,never used
+19,female,freshman,off-campus,no,not impt,twice,never used,never used,,C+,C,never used,never used
+24,male,=> 5th yr,off-campus,yes,not impt,twice,"used, > 12mos",used past 30d,2 or more,"no grade, dk",,Used,Current User
+26,male,freshman,off-campus,no,not impt,none,never used,never used,,B,B,never used,never used
+22,male,senior,off-campus,no,not impt,6-9 times,"used, > 12mos","used, > 12mos",1,C,C,Used,Previous User
+22,male,junior,off-campus,no,important,3-5 times,used past 30d,,1,B-,B,Used,
+26,male,senior,off-campus,no,somewhat imp,none,"used, > 12mos","used, > 30day",1,B-,B,Used,Current User
+21,male,senior,oth univ hsg,no,not impt,3-5 times,"used, > 30day",used past 30d,1,A,A,Used,Current User
+22,male,junior,off-campus,no,not impt,once,"used, > 12mos",used past 30d,1,B-,B,Used,Current User
+19,female,sophomore,1 sex dorm,no,somewhat imp,none,never used,"used, > 30day",,A-,A,never used,Current User
+21,female,senior,off-campus,no,not impt,none,never used,never used,1,C+,C,never used,never used
+20,female,sophomore,off-campus,no,important,none,never used,never used,1,C,C,never used,never used
+19,male,freshman,co-ed dorm,no,very import,none,"used, > 30day",never used,0,B-,B,Used,never used
+24,female,senior,off-campus,no,very import,none,"used, > 12mos",used past 30d,1,B-,B,Used,Current User
+18,male,freshman,co-ed dorm,no,somewhat imp,3-5 times,used past 30d,used past 30d,0,A,A,Used,Current User
+20,female,junior,off-campus,no,very import,none,never used,never used,,B+,B,never used,never used
+22,female,senior,off-campus,yes,somewhat imp,once,"used, > 12mos",used past 30d,1,B+,B,Used,Current User
+20,male,junior,off-campus,yes,not impt,once,"used, > 30day",never used,0,A-,A,Used,never used
+,,,,,,none,never used,used past 30d,,B-,B,never used,Current User
+18,female,freshman,off-campus,no,important,none,never used,never used,1,B-,B,never used,never used
+22,female,senior,off-campus,yes,important,6-9 times,used past 30d,never used,1,B,B,Used,never used
+26,male,senior,off-campus,no,not impt,once,"used, > 12mos","used, > 12mos",0,A,A,Used,Previous User
+25,female,sophomore,off-campus,no,somewhat imp,none,"used, > 12mos",never used,1,B,B,Used,never used
+18,male,freshman,off-campus,no,not impt,none,never used,never used,,B+,B,never used,never used
+22,male,senior,off-campus,no,not impt,once,"used, > 30day","used, > 12mos",1,A,A,Used,Previous User
+21,female,junior,co-ed dorm,no,important,none,never used,"used, > 12mos",0,B,B,never used,Previous User
+26,female,junior,off-campus,no,not impt,none,"used, > 12mos",used past 30d,1,B,B,Used,Current User
+21,female,junior,off-campus,no,very import,none,never used,never used,1,B,B,never used,never used
+23,female,senior,1 sex dorm,no,very import,none,,,0,B+,B,,
+22,female,junior,off-campus,no,somewhat imp,once,never used,never used,1,"no grade, dk",,never used,never used
+26,female,freshman,off-campus,no,somewhat imp,none,never used,"used, > 12mos",1,B+,B,never used,Previous User
+18,female,freshman,1 sex dorm,no,important,once,"used, > 12mos",never used,1,C,C,Used,never used
+20,female,junior,off-campus,no,very import,none,never used,never used,,A,A,never used,never used
+22,male,=> 5th yr,off-campus,yes,very import,none,never used,never used,0,B,B,never used,never used
+21,male,senior,1 sex dorm,no,not impt,once,never used,never used,0,B+,B,never used,never used
+20,male,freshman,co-ed dorm,no,not impt,twice,"used, > 12mos",used past 30d,0,C+,C,Used,Current User
+26,male,sophomore,off-campus,no,important,none,"used, > 12mos",used past 30d,1,B,B,Used,Current User
+19,female,freshman,co-ed dorm,yes,important,twice,used past 30d,used past 30d,1,B+,B,Used,Current User
+18,female,freshman,1 sex dorm,no,important,none,never used,never used,,B-,B,never used,never used
+20,male,senior,off-campus,no,very import,none,"used, > 12mos",never used,1,B,B,Used,never used
+21,male,senior,off-campus,yes,very import,6-9 times,never used,"used, > 12mos",,A-,A,never used,Previous User
+24,female,junior,off-campus,no,not impt,none,never used,never used,1,A-,A,never used,never used
+18,female,freshman,off-campus,no,important,none,never used,"used, > 12mos",1,B+,B,never used,Previous User
+18,male,freshman,off-campus,no,not impt,none,never used,never used,0,B-,B,never used,never used
+21,female,senior,off-campus,yes,important,twice,"used, > 12mos",never used,,A-,A,Used,never used
+22,female,senior,off-campus,no,not impt,none,"used, > 30day",used past 30d,1,A-,A,Used,Current User
+26,male,senior,off-campus,no,not impt,none,"used, > 12mos",used past 30d,0,A-,A,Used,Current User
+25,male,junior,off-campus,no,important,,used past 30d,used past 30d,0,B+,B,Used,Current User
+18,female,freshman,co-ed dorm,yes,very import,none,never used,"used, > 30day",,C,C,never used,Current User
+18,male,freshman,off-campus,no,not impt,none,never used,never used,,A,A,never used,never used
+22,female,senior,co-ed dorm,no,very import,none,never used,never used,,A,A,never used,never used
+26,female,senior,off-campus,no,not impt,none,"used, > 12mos",used past 30d,1,A,A,Used,Current User
+26,female,=> 5th yr,off-campus,no,somewhat imp,none,"used, > 12mos","used, > 12mos",1,A,A,Used,Previous User
+18,female,freshman,1 sex dorm,no,somewhat imp,3-5 times,used past 30d,never used,1,C+,C,Used,never used
+23,female,junior,off-campus,no,not impt,once,"used, > 12mos",never used,1,B+,B,Used,never used
+20,male,sophomore,off-campus,no,not impt,none,never used,"used, > 30day",,B,B,never used,Current User
+22,female,senior,off-campus,no,not impt,none,never used,never used,1,B+,B,never used,never used
+18,female,freshman,off-campus,no,important,none,never used,"used, > 12mos",0,C,C,never used,Previous User
+26,male,=> 5th yr,off-campus,no,important,none,used past 30d,"used, > 30day",1,A,A,Used,Current User
+18,female,freshman,co-ed dorm,no,somewhat imp,none,never used,never used,,B,B,never used,never used
+21,male,senior,off-campus,no,important,3-5 times,used past 30d,used past 30d,2 or more,B,B,Used,Current User
+20,male,sophomore,off-campus,no,important,once,used past 30d,used past 30d,1,B+,B,Used,Current User
+19,female,freshman,co-ed dorm,no,somewhat imp,6-9 times,"used, > 12mos",used past 30d,1,B+,B,Used,Current User
+19,male,freshman,1 sex dorm,yes,important,6-9 times,used past 30d,used past 30d,1,A,A,Used,Current User
+26,male,senior,off-campus,no,important,none,"used, > 12mos","used, > 12mos",1,B,B,Used,Previous User
+20,male,junior,1 sex dorm,no,somewhat imp,none,never used,never used,1,A,A,never used,never used
+26,male,sophomore,off-campus,no,very import,10 or more x,used past 30d,used past 30d,0,C-,C,Used,Current User
+23,female,sophomore,off-campus,no,not impt,once,,,0,B+,B,,
+20,male,junior,off-campus,no,not impt,6-9 times,used past 30d,used past 30d,2 or more,C+,C,Used,Current User
+21,female,sophomore,co-ed dorm,no,not impt,none,never used,used past 30d,1,A,A,never used,Current User
+19,female,freshman,1 sex dorm,no,important,3-5 times,"used, > 30day",never used,0,C+,C,Used,never used
+21,male,senior,oth univ hsg,no,very import,none,never used,never used,,B+,B,never used,never used
+18,male,freshman,co-ed dorm,no,not impt,none,"used, > 30day","used, > 30day",1,B,B,Used,Current User
+19,female,freshman,co-ed dorm,no,somewhat imp,3-5 times,used past 30d,used past 30d,0,B-,B,Used,Current User
+21,female,junior,off-campus,no,not impt,none,used past 30d,used past 30d,1,B,B,Used,Current User
+19,female,freshman,off-campus,no,very import,none,never used,never used,1,"no grade, dk",,never used,never used
+22,female,senior,off-campus,no,somewhat imp,none,never used,never used,,C,C,never used,never used
+20,male,sophomore,co-ed dorm,no,not impt,3-5 times,"used, > 30day",used past 30d,1,A,A,Used,Current User
+25,female,sophomore,off-campus,no,not impt,none,"used, > 12mos","used, > 12mos",1,A,A,Used,Previous User
+22,female,=> 5th yr,off-campus,no,not impt,none,never used,"used, > 12mos",,C+,C,never used,Previous User
+19,female,sophomore,co-ed dorm,no,important,none,never used,never used,,C,C,never used,never used
+21,male,junior,off-campus,yes,not impt,none,"used, > 12mos","used, > 30day",2 or more,B,B,Used,Current User
+19,female,sophomore,co-ed dorm,no,very import,none,never used,never used,,B+,B,never used,never used
+23,female,senior,off-campus,no,important,none,"used, > 12mos","used, > 12mos",,B+,B,Used,Previous User
+26,female,=> 5th yr,off-campus,no,not impt,none,"used, > 12mos","used, > 12mos",2 or more,B+,B,Used,Previous User
+26,female,senior,off-campus,no,not impt,none,"used, > 12mos","used, > 12mos",1,A,A,Used,Previous User
+21,female,junior,off-campus,no,important,once,never used,never used,1,B,B,never used,never used
+19,female,freshman,off-campus,no,important,none,never used,never used,1,,,never used,never used
+26,male,senior,off-campus,no,somewhat imp,6-9 times,used past 30d,used past 30d,2 or more,C+,C,Used,Current User
+18,female,freshman,co-ed dorm,yes,important,none,never used,never used,,A-,A,never used,never used
+18,male,freshman,1 sex dorm,no,somewhat imp,once,never used,never used,1,C-,C,never used,never used
+23,male,=> 5th yr,off-campus,no,not impt,none,never used,never used,,C+,C,never used,never used
+24,female,senior,off-campus,no,very import,none,never used,never used,1,B-,B,never used,never used
+18,female,freshman,1 sex dorm,yes,very import,none,never used,never used,,B+,B,never used,never used
+26,male,senior,off-campus,yes,not impt,,never used,used past 30d,2 or more,B-,B,never used,Current User
+21,male,junior,1 sex dorm,no,somewhat imp,6-9 times,used past 30d,"used, > 12mos",0,C-,C,Used,Previous User
+25,male,junior,off-campus,no,very import,none,never used,never used,1,C+,C,never used,never used
+23,male,senior,off-campus,no,not impt,none,never used,never used,1,A-,A,never used,never used
+21,male,senior,off-campus,no,somewhat imp,none,never used,never used,,B-,B,never used,never used
+26,female,=> 5th yr,off-campus,no,not impt,none,never used,"used, > 12mos",1,A-,A,never used,Previous User
+19,male,sophomore,co-ed dorm,no,not impt,6-9 times,used past 30d,never used,0,B,B,Used,never used
+24,male,=> 5th yr,off-campus,no,somewhat imp,3-5 times,"used, > 12mos","used, > 12mos",2 or more,C,C,Used,Previous User
+26,male,junior,off-campus,no,somewhat imp,none,"used, > 12mos",never used,1,B+,B,Used,never used
+21,female,junior,co-ed dorm,no,important,none,"used, > 12mos",never used,1,C,C,Used,never used
+20,female,junior,off-campus,no,important,none,never used,never used,1,B+,B,never used,never used
+22,female,junior,off-campus,no,important,none,never used,never used,,C,C,never used,never used
+22,male,senior,off-campus,no,not impt,6-9 times,used past 30d,used past 30d,1,B+,B,Used,Current User
+20,female,sophomore,off-campus,no,important,once,"used, > 30day","used, > 30day",1,B,B,Used,Current User
+26,male,senior,off-campus,no,important,none,"used, > 12mos",never used,1,B+,B,Used,never used
+22,male,=> 5th yr,off-campus,yes,not impt,3-5 times,never used,never used,1,B,B,never used,never used
+22,female,senior,1 sex dorm,no,important,none,never used,never used,0,B+,B,never used,never used
+18,female,freshman,co-ed dorm,no,somewhat imp,3-5 times,"used, > 30day","used, > 30day",,B-,B,Used,Current User
+18,female,freshman,1 sex dorm,no,important,none,never used,never used,1,"no grade, dk",,never used,never used
+18,male,freshman,off-campus,no,important,none,never used,never used,,"no grade, dk",,never used,never used
+21,female,senior,off-campus,yes,important,6-9 times,"used, > 30day","used, > 12mos",1,A-,A,Used,Previous User
+21,female,junior,off-campus,no,important,none,never used,never used,0,B+,B,never used,never used
+20,female,junior,off-campus,no,somewhat imp,none,never used,never used,1,A-,A,never used,never used
+22,female,=> 5th yr,off-campus,no,not impt,once,"used, > 30day","used, > 30day",1,A-,A,Used,Current User
+21,male,senior,off-campus,yes,somewhat imp,twice,used past 30d,"used, > 30day",1,B-,B,Used,Current User
+20,female,sophomore,co-ed dorm,no,not impt,once,used past 30d,used past 30d,1,C,C,Used,Current User
+20,female,junior,co-ed dorm,no,important,none,never used,never used,1,B,B,never used,never used
+21,male,junior,off-campus,no,somewhat imp,6-9 times,"used, > 12mos",used past 30d,2 or more,B-,B,Used,Current User
+21,male,junior,off-campus,no,very import,3-5 times,"used, > 30day",used past 30d,0,C+,C,Used,Current User
+23,female,junior,off-campus,no,somewhat imp,none,"used, > 12mos",never used,1,C-,C,Used,never used
+19,male,sophomore,co-ed dorm,no,not impt,3-5 times,"used, > 30day",never used,1,B-,B,Used,never used
+22,female,senior,off-campus,no,somewhat imp,3-5 times,"used, > 30day",never used,0,B,B,Used,never used
+18,female,freshman,1 sex dorm,no,somewhat imp,once,never used,never used,1,A-,A,never used,never used
+19,male,sophomore,off-campus,no,somewhat imp,none,never used,never used,,B,B,never used,never used
+24,female,junior,off-campus,no,not impt,none,"used, > 12mos",used past 30d,0,C+,C,Used,Current User
+21,male,junior,off-campus,yes,very import,once,never used,never used,1,B-,B,never used,never used
+20,female,sophomore,co-ed dorm,no,not impt,none,"used, > 30day","used, > 30day",1,B,B,Used,Current User
+18,female,freshman,off-campus,no,not impt,twice,"used, > 30day",used past 30d,0,D,D,Used,Current User
+21,female,junior,off-campus,yes,very import,none,"used, > 12mos","used, > 30day",1,B,B,Used,Current User
+26,female,senior,off-campus,no,not impt,none,"used, > 12mos",used past 30d,1,A-,A,Used,Current User
+20,female,junior,oth univ hsg,no,important,none,never used,used past 30d,,A-,A,never used,Current User
+20,female,senior,off-campus,no,not impt,none,never used,never used,1,A,A,never used,never used
+22,male,junior,co-ed dorm,no,not impt,10 or more x,"used, > 12mos",used past 30d,0,B-,B,Used,Current User
+21,female,senior,off-campus,no,not impt,none,never used,never used,1,B,B,never used,never used
+20,female,junior,co-ed dorm,no,somewhat imp,none,never used,never used,1,B,B,never used,never used
+19,female,junior,frat/sorority,yes,somewhat imp,none,never used,never used,0,A-,A,never used,never used
+18,female,freshman,1 sex dorm,no,very import,none,never used,never used,,A,A,never used,never used
+18,female,freshman,1 sex dorm,no,very import,none,never used,never used,,B-,B,never used,never used
+23,male,sophomore,off-campus,no,somewhat imp,once,"used, > 30day",never used,1,B,B,Used,never used
+24,female,senior,off-campus,no,important,none,never used,never used,1,C+,C,never used,never used
+25,female,senior,off-campus,no,not impt,once,"used, > 12mos",never used,0,A,A,Used,never used
+19,male,sophomore,frat/sorority,yes,not impt,6-9 times,used past 30d,never used,0,B,B,Used,never used
+20,female,sophomore,1 sex dorm,yes,somewhat imp,twice,"used, > 30day",never used,1,B-,B,Used,never used
+23,female,=> 5th yr,off-campus,yes,very import,none,never used,never used,1,A,A,never used,never used
+22,female,=> 5th yr,off-campus,no,important,once,used past 30d,used past 30d,1,A,A,Used,Current User
+20,male,junior,off-campus,no,very import,none,never used,never used,0,A-,A,never used,never used
+21,male,junior,off-campus,no,not impt,3-5 times,used past 30d,never used,0,B+,B,Used,never used
+21,male,junior,off-campus,no,important,none,never used,never used,,B-,B,never used,never used
+20,female,sophomore,oth univ hsg,no,not impt,none,never used,never used,1,B-,B,never used,never used
+20,female,sophomore,co-ed dorm,no,somewhat imp,once,"used, > 30day",used past 30d,1,A-,A,Used,Current User
+18,female,freshman,co-ed dorm,no,not impt,none,"used, > 30day",never used,1,A-,A,Used,never used
+26,female,senior,off-campus,no,important,none,"used, > 30day","used, > 30day",1,A,A,Used,Current User
+26,female,=> 5th yr,off-campus,no,somewhat imp,none,never used,"used, > 12mos",1,A-,A,never used,Previous User
+19,female,sophomore,1 sex dorm,no,somewhat imp,none,never used,never used,0,B-,B,never used,never used
+23,female,=> 5th yr,off-campus,no,very import,none,never used,"used, > 12mos",0,A,A,never used,Previous User
+25,male,senior,off-campus,yes,not impt,3-5 times,used past 30d,used past 30d,1,B-,B,Used,Current User
+18,female,freshman,co-ed dorm,no,not impt,none,never used,never used,,B+,B,never used,never used
+18,female,freshman,co-ed dorm,no,not impt,none,never used,never used,1,B+,B,never used,never used
+26,female,senior,off-campus,no,somewhat imp,none,never used,never used,1,A,A,never used,never used
+26,female,=> 5th yr,off-campus,no,important,once,"used, > 12mos",never used,1,A,A,Used,never used
+26,female,junior,off-campus,no,not impt,none,"used, > 30day",never used,0,B+,B,Used,never used
+18,male,freshman,off-campus,no,not impt,once,never used,never used,1,"no grade, dk",,never used,never used
+23,male,=> 5th yr,off-campus,no,not impt,none,never used,"used, > 30day",0,B+,B,never used,Current User
+20,male,junior,frat/sorority,yes,somewhat imp,twice,never used,never used,1,B+,B,never used,never used
+21,male,junior,off-campus,no,somewhat imp,none,never used,never used,,B-,B,never used,never used
+19,female,sophomore,off-campus,no,very import,none,never used,never used,,A-,A,never used,never used
+22,male,junior,off-campus,no,not impt,6-9 times,used past 30d,used past 30d,1,B,B,Used,Current User
+21,male,junior,off-campus,no,important,once,used past 30d,never used,0,B+,B,Used,never used
+26,male,junior,oth univ hsg,no,very import,none,"used, > 12mos",never used,1,B+,B,Used,never used
+19,male,sophomore,1 sex dorm,no,important,none,never used,never used,,A,A,never used,never used
+18,female,freshman,co-ed dorm,no,somewhat imp,none,never used,"used, > 30day",2 or more,B,B,never used,Current User
+18,male,freshman,off-campus,no,not impt,none,"used, > 30day",used past 30d,1,C+,C,Used,Current User
+19,male,sophomore,co-ed dorm,no,somewhat imp,3-5 times,never used,never used,1,B+,B,never used,never used
+20,female,junior,co-ed dorm,no,not impt,none,"used, > 12mos",never used,0,B+,B,Used,never used
+22,female,=> 5th yr,off-campus,no,somewhat imp,none,"used, > 12mos","used, > 12mos",0,B-,B,Used,Previous User
+22,male,=> 5th yr,off-campus,no,very import,once,never used,used past 30d,,C,C,never used,Current User
+25,female,senior,off-campus,no,not impt,none,never used,never used,1,A,A,never used,never used
+19,male,sophomore,co-ed dorm,yes,not impt,none,never used,never used,1,A-,A,never used,never used
+22,female,senior,off-campus,no,very import,none,"used, > 30day",never used,1,A-,A,Used,never used
+18,female,freshman,1 sex dorm,no,important,none,never used,never used,,B+,B,never used,never used
+18,male,freshman,1 sex dorm,no,not impt,3-5 times,never used,never used,,C+,C,never used,never used
+20,male,junior,off-campus,no,not impt,none,never used,never used,,A,A,never used,never used
+19,female,junior,off-campus,no,very import,none,never used,never used,1,B+,B,never used,never used
+26,female,=> 5th yr,off-campus,yes,somewhat imp,none,"used, > 12mos",never used,0,B+,B,Used,never used
+22,male,senior,off-campus,no,important,none,used past 30d,never used,2 or more,B-,B,Used,never used
+18,male,freshman,off-campus,no,not impt,once,never used,never used,0,C-,C,never used,never used
+23,female,senior,off-campus,yes,important,twice,"used, > 30day",used past 30d,1,B,B,Used,Current User
+22,male,freshman,off-campus,no,important,twice,never used,never used,1,C-,C,never used,never used
+22,female,senior,off-campus,no,important,3-5 times,used past 30d,used past 30d,1,B+,B,Used,Current User
+26,female,senior,off-campus,no,important,3-5 times,"used, > 12mos","used, > 12mos",1,B,B,Used,Previous User
+19,female,sophomore,off-campus,no,not impt,none,never used,"used, > 30day",0,B+,B,never used,Current User
+19,female,freshman,off-campus,no,somewhat imp,none,never used,never used,0,B-,B,never used,never used
+20,female,junior,off-campus,no,important,once,never used,never used,1,B,B,never used,never used
+21,female,junior,off-campus,no,somewhat imp,none,never used,never used,1,C,C,never used,never used
+26,male,senior,off-campus,no,somewhat imp,none,"used, > 12mos",never used,1,A-,A,Used,never used
+26,female,senior,off-campus,no,somewhat imp,once,"used, > 12mos","used, > 12mos",0,B-,B,Used,Previous User
+18,female,freshman,co-ed dorm,no,not impt,6-9 times,used past 30d,used past 30d,0,B+,B,Used,Current User
+18,male,freshman,co-ed dorm,no,very import,twice,used past 30d,used past 30d,,C,C,Used,Current User
+21,female,junior,co-op,no,very import,,never used,"used, > 30day",,B+,B,never used,Current User
+23,male,senior,off-campus,no,very import,none,never used,"used, > 12mos",0,B,B,never used,Previous User
+19,male,sophomore,off-campus,no,very import,none,never used,never used,0,A,A,never used,never used
+20,female,freshman,off-campus,no,not impt,none,used past 30d,"used, > 30day",1,B-,B,Used,Current User
+19,female,sophomore,frat/sorority,yes,not impt,,never used,never used,1,B,B,never used,never used
+20,male,sophomore,off-campus,no,somewhat imp,none,never used,"used, > 12mos",1,A-,A,never used,Previous User
+21,female,senior,frat/sorority,yes,not impt,twice,used past 30d,used past 30d,1,B-,B,Used,Current User
+19,female,freshman,oth univ hsg,no,not impt,none,used past 30d,used past 30d,1,B-,B,Used,Current User
+19,male,freshman,off-campus,no,very import,none,never used,never used,,B,B,never used,never used
+26,male,=> 5th yr,off-campus,no,not impt,6-9 times,never used,used past 30d,1,C,C,never used,Current User
+20,male,junior,oth univ hsg,no,not impt,none,"used, > 12mos","used, > 12mos",0,A-,A,Used,Previous User
+25,male,junior,off-campus,no,somewhat imp,none,never used,used past 30d,2 or more,B-,B,never used,Current User
+18,female,freshman,co-ed dorm,no,not impt,twice,never used,never used,,A-,A,never used,never used
+19,female,sophomore,co-ed dorm,no,important,twice,"used, > 30day",never used,1,B-,B,Used,never used
+22,female,junior,off-campus,no,important,none,never used,used past 30d,1,B,B,never used,Current User
+21,male,senior,off-campus,no,very import,3-5 times,"used, > 12mos","used, > 12mos",0,C,C,Used,Previous User
+22,male,junior,co-ed dorm,no,somewhat imp,none,"used, > 30day",never used,0,B,B,Used,never used
+26,female,junior,off-campus,no,somewhat imp,none,"used, > 12mos",never used,1,A-,A,Used,never used
+20,female,sophomore,off-campus,yes,somewhat imp,6-9 times,used past 30d,used past 30d,1,B-,B,Used,Current User
+18,male,senior,off-campus,no,somewhat imp,once,"used, > 30day","used, > 30day",0,B+,B,Used,Current User
+19,female,sophomore,off-campus,no,not impt,none,"used, > 12mos",used past 30d,1,C+,C,Used,Current User
+19,male,freshman,off-campus,no,not impt,once,"used, > 30day",used past 30d,,C,C,Used,Current User
+22,male,senior,frat/sorority,yes,not impt,3-5 times,never used,"used, > 12mos",0,B-,B,never used,Previous User
+19,female,freshman,co-ed dorm,no,somewhat imp,none,never used,used past 30d,1,A-,A,never used,Current User
+19,male,sophomore,off-campus,no,not impt,none,never used,never used,,B,B,never used,never used
+19,male,sophomore,off-campus,no,not impt,10 or more x,used past 30d,used past 30d,,B,B,Used,Current User
+19,male,sophomore,off-campus,no,not impt,once,never used,never used,,A-,A,never used,never used
+20,male,freshman,off-campus,no,somewhat imp,none,"used, > 12mos","used, > 30day",0,"no grade, dk",,Used,Current User
+18,female,freshman,1 sex dorm,no,not impt,3-5 times,"used, > 30day",used past 30d,1,A-,A,Used,Current User
+18,female,freshman,co-ed dorm,no,very import,none,never used,"used, > 12mos",,B+,B,never used,Previous User
+21,female,sophomore,off-campus,no,somewhat imp,none,never used,never used,1,B,B,never used,never used
+20,male,junior,off-campus,yes,somewhat imp,twice,never used,never used,,A,A,never used,never used
+19,female,freshman,1 sex dorm,yes,very import,none,never used,never used,0,C,C,never used,never used
+21,male,senior,frat/sorority,yes,somewhat imp,3-5 times,"used, > 30day","used, > 12mos",0,B,B,Used,Previous User
+20,male,sophomore,off-campus,yes,very import,none,never used,never used,,B-,B,never used,never used
+21,female,senior,co-ed dorm,,not impt,twice,"used, > 30day",used past 30d,1,B,B,Used,Current User
+21,female,junior,co-ed dorm,no,not impt,once,used past 30d,never used,1,B,B,Used,never used
+20,female,sophomore,1 sex dorm,no,very import,none,never used,never used,,A-,A,never used,never used
+19,male,sophomore,off-campus,no,somewhat imp,none,never used,never used,,A-,A,never used,never used
+19,male,sophomore,off-campus,no,not impt,none,never used,used past 30d,0,B+,B,never used,Current User
+25,female,senior,,no,not impt,none,never used,never used,,C+,C,never used,never used
+21,female,junior,frat/sorority,yes,somewhat imp,3-5 times,never used,used past 30d,1,B+,B,never used,Current User
+21,female,sophomore,off-campus,no,very import,none,never used,never used,1,C,C,never used,never used
+21,female,junior,off-campus,no,very import,none,never used,"used, > 12mos",,B+,B,never used,Previous User
+23,male,=> 5th yr,frat/sorority,yes,very import,3-5 times,never used,"used, > 12mos",0,A,A,never used,Previous User
+18,male,freshman,co-ed dorm,no,not impt,none,never used,never used,1,B-,B,never used,never used
+20,male,sophomore,frat/sorority,yes,somewhat imp,3-5 times,"used, > 30day",never used,0,B,B,Used,never used
+22,male,=> 5th yr,co-ed dorm,no,somewhat imp,once,never used,never used,,B,B,never used,never used
+26,female,=> 5th yr,off-campus,no,very import,none,"used, > 12mos",never used,1,A-,A,Used,never used
+18,female,freshman,1 sex dorm,yes,not impt,none,never used,never used,,B,B,never used,never used
+21,male,senior,off-campus,yes,very import,once,used past 30d,used past 30d,1,B,B,Used,Current User
+26,female,=> 5th yr,off-campus,no,not impt,none,"used, > 12mos","used, > 12mos",1,A,A,Used,Previous User
+21,male,senior,off-campus,yes,not impt,3-5 times,never used,never used,1,B-,B,never used,never used
+19,female,sophomore,co-ed dorm,no,somewhat imp,none,never used,never used,,C-,C,never used,never used
+20,female,sophomore,1 sex dorm,no,very import,none,never used,never used,,A,A,never used,never used
+19,female,junior,co-ed dorm,no,very import,once,"used, > 30day","used, > 30day",,A,A,Used,Current User
+18,female,freshman,off-campus,no,very import,none,never used,never used,,B,B,never used,never used
+26,female,junior,off-campus,no,not impt,none,"used, > 12mos","used, > 12mos",0,A,A,Used,Previous User
+19,male,sophomore,co-ed dorm,no,not impt,none,never used,never used,0,A-,A,never used,never used
+23,male,senior,off-campus,no,not impt,twice,used past 30d,used past 30d,1,B,B,Used,Current User
+24,male,=> 5th yr,off-campus,yes,not impt,once,used past 30d,used past 30d,1,B+,B,Used,Current User
+21,female,junior,off-campus,no,important,none,never used,never used,,C+,C,never used,never used
+18,male,freshman,co-ed dorm,no,important,none,never used,never used,,B+,B,never used,never used
+19,male,freshman,off-campus,no,somewhat imp,none,never used,never used,1,C+,C,never used,never used
+20,male,sophomore,1 sex dorm,no,very import,none,never used,used past 30d,1,A,A,never used,Current User
+23,male,=> 5th yr,off-campus,yes,not impt,6-9 times,used past 30d,used past 30d,0,B,B,Used,Current User
+24,male,senior,off-campus,no,not impt,none,"used, > 12mos","used, > 12mos",1,B,B,Used,Previous User
+21,female,senior,oth univ hsg,no,somewhat imp,twice,used past 30d,used past 30d,0,B,B,Used,Current User
+20,male,sophomore,off-campus,no,somewhat imp,none,never used,never used,1,B-,B,never used,never used
+19,female,sophomore,off-campus,no,important,3-5 times,used past 30d,used past 30d,1,"no grade, dk",,Used,Current User
+22,male,junior,off-campus,yes,not impt,10 or more x,"used, > 30day",used past 30d,0,D,D,Used,Current User
+22,female,senior,off-campus,no,somewhat imp,twice,never used,"used, > 12mos",0,B-,B,never used,Previous User
+26,female,senior,off-campus,no,not impt,none,"used, > 12mos","used, > 12mos",1,A-,A,Used,Previous User
+22,female,senior,off-campus,no,somewhat imp,none,never used,never used,,B,B,never used,never used
+21,female,junior,off-campus,no,important,none,"used, > 30day",used past 30d,,B,B,Used,Current User
+22,female,=> 5th yr,off-campus,yes,important,3-5 times,used past 30d,"used, > 12mos",1,A,A,Used,Previous User
+26,male,senior,off-campus,no,not impt,twice,"used, > 12mos",never used,1,B+,B,Used,never used
+20,male,sophomore,co-ed dorm,no,not impt,none,never used,"used, > 12mos",1,C+,C,never used,Previous User
+20,male,junior,1 sex dorm,no,not impt,once,never used,never used,2 or more,C+,C,never used,never used
+18,female,freshman,1 sex dorm,no,somewhat imp,none,never used,never used,1,A,A,never used,never used
+21,male,senior,off-campus,yes,important,once,never used,never used,1,B,B,never used,never used
+20,female,sophomore,co-ed dorm,no,very import,none,never used,never used,,B-,B,never used,never used
+20,male,junior,frat/sorority,yes,somewhat imp,twice,"used, > 12mos","used, > 30day",1,B,B,Used,Current User
+19,female,sophomore,co-op,no,not impt,none,never used,never used,,B-,B,never used,never used
+21,male,junior,co-ed dorm,no,somewhat imp,3-5 times,never used,"used, > 30day",1,B-,B,never used,Current User
+18,male,freshman,co-ed dorm,no,somewhat imp,none,never used,never used,1,B,B,never used,never used
+21,female,freshman,off-campus,,not impt,none,never used,never used,,B+,B,never used,never used
+21,male,junior,co-ed dorm,no,very import,10 or more x,"used, > 12mos",used past 30d,0,B,B,Used,Current User
+19,female,sophomore,co-ed dorm,no,not impt,3-5 times,used past 30d,used past 30d,1,A-,A,Used,Current User
+18,female,freshman,co-ed dorm,yes,somewhat imp,3-5 times,used past 30d,used past 30d,0,C-,C,Used,Current User
+25,male,=> 5th yr,off-campus,no,important,once,"used, > 12mos","used, > 12mos",1,B,B,Used,Previous User
+21,female,senior,co-ed dorm,no,important,3-5 times,used past 30d,used past 30d,1,A-,A,Used,Current User
+26,male,junior,off-campus,no,not impt,twice,"used, > 12mos","used, > 12mos",1,B+,B,Used,Previous User
+26,male,senior,co-ed dorm,no,very import,none,never used,never used,0,B+,B,never used,never used
+21,male,junior,1 sex dorm,no,very import,once,"used, > 30day",used past 30d,0,A,A,Used,Current User
+21,female,junior,off-campus,yes,somewhat imp,none,never used,never used,1,A,A,never used,never used
+20,male,sophomore,off-campus,no,somewhat imp,twice,"used, > 30day",used past 30d,,C+,C,Used,Current User
+26,female,senior,off-campus,no,not impt,none,"used, > 12mos","used, > 12mos",,A,A,Used,Previous User
+19,female,freshman,co-ed dorm,no,somewhat imp,none,never used,never used,,A,A,never used,never used
+18,female,freshman,off-campus,yes,very import,none,never used,never used,1,A-,A,never used,never used
+22,male,=> 5th yr,off-campus,yes,somewhat imp,3-5 times,"used, > 30day","used, > 30day",2 or more,B+,B,Used,Current User
+25,female,=> 5th yr,off-campus,no,somewhat imp,none,"used, > 12mos","used, > 12mos",1,B+,B,Used,Previous User
+21,female,junior,off-campus,no,not impt,once,,never used,0,A-,A,,never used
+18,female,freshman,off-campus,no,somewhat imp,none,never used,"used, > 30day",1,B,B,never used,Current User
+22,male,junior,off-campus,no,not impt,none,never used,never used,0,B,B,never used,never used
+18,female,freshman,1 sex dorm,no,somewhat imp,3-5 times,never used,never used,1,B+,B,never used,never used
+20,male,junior,off-campus,no,not impt,none,never used,"used, > 12mos",,A,A,never used,Previous User
+23,female,=> 5th yr,off-campus,no,somewhat imp,none,never used,"used, > 12mos",,B-,B,never used,Previous User
+20,male,sophomore,co-ed dorm,no,not impt,twice,used past 30d,used past 30d,0,B-,B,Used,Current User
+21,female,senior,frat/sorority,yes,important,once,"used, > 12mos",used past 30d,0,A-,A,Used,Current User
+25,male,senior,off-campus,no,important,twice,"used, > 30day",never used,1,B-,B,Used,never used
+20,male,sophomore,co-ed dorm,no,important,twice,never used,never used,,B,B,never used,never used
+26,male,sophomore,off-campus,no,somewhat imp,none,"used, > 12mos",used past 30d,1,B,B,Used,Current User
+26,male,=> 5th yr,off-campus,no,,none,never used,"used, > 30day",,C+,C,never used,Current User
+19,female,freshman,1 sex dorm,no,somewhat imp,none,never used,never used,,D,D,never used,never used
+24,female,senior,off-campus,no,somewhat imp,none,"used, > 12mos",never used,1,B,B,Used,never used
+20,male,sophomore,1 sex dorm,no,somewhat imp,twice,"used, > 30day","used, > 30day",1,B+,B,Used,Current User
+21,male,senior,off-campus,no,somewhat imp,none,never used,never used,1,B,B,never used,never used
+23,female,senior,off-campus,no,very import,none,never used,never used,,B+,B,never used,never used
+22,female,junior,oth univ hsg,no,not impt,,"used, > 30day",used past 30d,1,B,B,Used,Current User
+18,female,freshman,co-ed dorm,no,important,none,never used,never used,,A-,A,never used,never used
+26,female,senior,off-campus,no,important,none,never used,never used,1,A,A,never used,never used
+20,female,senior,off-campus,no,very import,none,never used,never used,1,A,A,never used,never used
+20,male,freshman,off-campus,no,somewhat imp,none,never used,never used,,A-,A,never used,never used
+26,female,=> 5th yr,off-campus,no,not impt,3-5 times,"used, > 12mos",used past 30d,1,B,B,Used,Current User
+21,female,senior,co-ed dorm,no,important,3-5 times,"used, > 12mos","used, > 30day",1,B+,B,Used,Current User
+21,male,senior,co-ed dorm,no,very import,none,never used,never used,,A-,A,never used,never used
+21,female,junior,off-campus,no,very import,none,used past 30d,used past 30d,1,A,A,Used,Current User
+21,female,junior,frat/sorority,yes,not impt,none,"used, > 12mos","used, > 30day",0,A,A,Used,Current User
+20,female,sophomore,1 sex dorm,no,very import,none,never used,never used,,A,A,never used,never used
+20,female,senior,oth univ hsg,no,somewhat imp,once,never used,never used,1,A-,A,never used,never used
+23,male,=> 5th yr,off-campus,no,very import,none,never used,never used,,B,B,never used,never used
+21,female,senior,off-campus,no,not impt,none,never used,"used, > 12mos",0,A,A,never used,Previous User
+22,female,=> 5th yr,off-campus,yes,somewhat imp,6-9 times,never used,never used,0,B-,B,never used,never used
+24,male,senior,off-campus,no,very import,none,"used, > 12mos","used, > 12mos",1,B,B,Used,Previous User
+21,female,junior,off-campus,no,not impt,3-5 times,used past 30d,used past 30d,0,B,B,Used,Current User
+20,female,junior,off-campus,no,important,none,"used, > 30day",never used,1,B-,B,Used,never used
+19,male,sophomore,co-ed dorm,no,not impt,none,never used,never used,,B,B,never used,never used
+19,female,sophomore,frat/sorority,yes,important,once,"used, > 12mos",used past 30d,1,C+,C,Used,Current User
+18,male,freshman,co-ed dorm,no,very import,twice,never used,never used,,C,C,never used,never used
+22,male,senior,off-campus,no,somewhat imp,none,never used,never used,1,B+,B,never used,never used
+21,female,junior,co-ed dorm,no,not impt,none,"used, > 30day",never used,1,A-,A,Used,never used
+19,male,freshman,co-ed dorm,no,somewhat imp,none,"used, > 30day",never used,1,B+,B,Used,never used
+22,female,=> 5th yr,off-campus,no,important,none,never used,"used, > 12mos",1,B,B,never used,Previous User
+18,female,freshman,co-ed dorm,no,not impt,twice,"used, > 30day",used past 30d,1,B,B,Used,Current User
+20,female,sophomore,off-campus,no,somewhat imp,6-9 times,"used, > 30day",used past 30d,1,B-,B,Used,Current User
+21,male,senior,off-campus,no,somewhat imp,twice,never used,never used,0,B+,B,never used,never used
+19,female,sophomore,co-ed dorm,no,not impt,none,never used,"used, > 12mos",,B,B,never used,Previous User
+21,female,junior,off-campus,no,somewhat imp,twice,never used,never used,0,A,A,never used,never used
+21,female,senior,oth univ hsg,no,very import,,never used,never used,1,A-,A,never used,never used
+26,male,junior,off-campus,no,not impt,once,"used, > 12mos",used past 30d,1,B,B,Used,Current User
+22,female,=> 5th yr,off-campus,no,not impt,once,never used,"used, > 12mos",1,A,A,never used,Previous User
+21,male,senior,off-campus,no,,twice,used past 30d,"used, > 12mos",1,B-,B,Used,Previous User
+19,female,sophomore,oth univ hsg,no,not impt,none,"used, > 30day",used past 30d,0,B,B,Used,Current User
+21,male,freshman,co-ed dorm,no,not impt,6-9 times,"used, > 30day",used past 30d,0,B+,B,Used,Current User
+24,female,junior,off-campus,no,not impt,once,"used, > 12mos",used past 30d,1,A-,A,Used,Current User
+19,female,freshman,co-ed dorm,no,somewhat imp,none,never used,never used,,A,A,never used,never used
+19,male,freshman,off-campus,no,somewhat imp,none,never used,"used, > 12mos",0,A-,A,never used,Previous User
+18,female,freshman,off-campus,no,very import,none,never used,never used,,A,A,never used,never used
+21,female,senior,off-campus,no,not impt,once,"used, > 12mos",never used,1,B+,B,Used,never used
+18,male,freshman,co-ed dorm,no,not impt,twice,never used,never used,0,C-,C,never used,never used
+21,male,senior,off-campus,no,very import,none,"used, > 12mos",used past 30d,0,B,B,Used,Current User
