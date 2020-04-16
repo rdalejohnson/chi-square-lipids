@@ -227,8 +227,112 @@ lipids$hdl_tertiles <- ifelse(lipids$HDL>=12 & lipids$HDL <= 36, "1-Low Level [1
                                       ifelse(lipids$HDL >= 37 & lipids$HDL<=45, "2-Medium Level [37-45]",
                                              ifelse(lipids$HDL >= 46 & lipids$HDL<=108, "3-High Level [46-108]", NA)))
 
+#### TREATMENT and TRIGLYCERIDES
+
+table1= table(lipids$TREATMENT,lipids$triglycerides_national_guidelines)
+table1.1= addmargins (table1)
+print(table1.1)
+
+table1.2=prop.table(table1)
+print(table1.2)
+library(MASS)
+chisq.test(table1)
+library(vcd)
+assocstats(table1)
+
+
+#### TREATMENT and CHOLESTEROL
+
+table1= table(lipids$TREATMENT,lipids$cholesterol_national_guidelines)
+table1.1= addmargins (table1)
+print(table1.1)
+
+table1.2=prop.table(table1)
+print(table1.2)
+library(MASS)
+chisq.test(table1)
+library(vcd)
+assocstats(table1)
+
+#### TREATMENT and LDL
+
+table1= table(lipids$TREATMENT,lipids$ldl_national_guidelines)
+table1.1= addmargins (table1)
+print(table1.1)
+
+table1.2=prop.table(table1)
+print(table1.2)
+library(MASS)
+chisq.test(table1)
+library(vcd)
+assocstats(table1)
+
+
+#### TREATMENT and HDL
+
+table1= table(lipids$TREATMENT,lipids$hdl_national_guidelines)
+table1.1= addmargins (table1)
+print(table1.1)
+
+table1.2=prop.table(table1)
+print(table1.2)
+library(MASS)
+chisq.test(table1)
+library(vcd)
+assocstats(table1)
 
 
 
+#### TREATMENT and TRIGLYCERIDES TERTILES
+
+table1= table(lipids$TREATMENT,lipids$triglycerides_tertiles)
+table1.1= addmargins (table1)
+print(table1.1)
+
+table1.2=prop.table(table1)
+print(table1.2)
+library(MASS)
+chisq.test(table1)
+library(vcd)
+assocstats(table1)
 
 
+#### TREATMENT and CHOLESTEROL TERTILES
+
+table1= table(lipids$TREATMENT,lipids$cholesterol_tertiles)
+table1.1= addmargins (table1)
+print(table1.1)
+
+table1.2=prop.table(table1)
+print(table1.2)
+library(MASS)
+chisq.test(table1)
+library(vcd)
+assocstats(table1)
+
+
+#### TREATMENT and LDL TERTILES
+
+table1= table(lipids$TREATMENT,lipids$ldl_tertiles)
+table1.1= addmargins (table1)
+print(table1.1)
+
+table1.2=prop.table(table1)
+print(table1.2)
+library(MASS)
+chisq.test(table1)
+library(vcd)
+assocstats(table1)
+
+#### TREATMENT and HDL TERTILES
+
+table1= table(lipids$TREATMENT,lipids$hdl_tertiles)
+table1.1= addmargins (table1)
+print(table1.2)
+
+table1.2=prop.table(table1)
+print(table1.1)
+library(MASS)
+chisq.test(table1)
+library(vcd)
+assocstats(table1)
