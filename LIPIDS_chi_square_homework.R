@@ -193,16 +193,40 @@ summary(lipids)
 lipids = read.csv("LIPIDS.csv",sep=",", na.strings=c("","NA")) 
 
 
- 
+#### recode triglycerides
+
 lipids$triglycerides_national_guidelines <- ifelse(lipids$Triglycerides<150, "0-Optimal", "1-Not Optimal")
          
-
 lipids$triglycerides_tertiles <- ifelse(lipids$Triglycerides<=113, "1-Low Level [0-113]", 
                                                     ifelse(lipids$Triglycerides<=183, "2-Medium Level [114-183]",
                                                            ifelse(lipids$Triglycerides<=706, "3-High Level [184-706]", NA)))
 
+#### recode cholesterol
+
+lipids$cholesterol_national_guidelines <- ifelse(lipids$Cholesterol<200, "0-Optimal", "1-Not Optimal")
+
+lipids$cholesterol_tertiles <- ifelse(lipids$Cholesterol>=113 & lipids$Cholesterol <= 188, "1-Low Level [113-188]", 
+                                        ifelse(lipids$Cholesterol >= 189 & lipids$Cholesterol<=221, "2-Medium Level [189-221]",
+                                               ifelse(lipids$Cholesterol >= 222 & lipids$Cholesterol<=354, "3-High Level [222-354]", NA)))
 
          
+#### recode LDL
+
+lipids$ldl_national_guidelines <- ifelse(lipids$LDL <100, "0-Optimal", "1-Not Optimal")
+
+lipids$ldl_tertiles <- ifelse(lipids$LDL>=61 & lipids$LDL <= 120, "1-Low Level [61-120]", 
+                                      ifelse(lipids$LDL >= 121 & lipids$LDL<=146, "2-Medium Level [121-146]",
+                                             ifelse(lipids$LDL >= 147 & lipids$LDL<=244, "3-High Level [147-244]", NA)))
+
+
+#### recode HDL
+
+lipids$hdl_national_guidelines <- ifelse(lipids$HDL < 60, "1-Not Optimal", "0-Optimal")
+
+lipids$hdl_tertiles <- ifelse(lipids$HDL>=12 & lipids$HDL <= 36, "1-Low Level [12-36]", 
+                                      ifelse(lipids$HDL >= 37 & lipids$HDL<=45, "2-Medium Level [37-45]",
+                                             ifelse(lipids$HDL >= 46 & lipids$HDL<=108, "3-High Level [46-108]", NA)))
+
 
 
 
