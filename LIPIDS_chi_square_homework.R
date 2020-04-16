@@ -1,4 +1,9 @@
 
+#Sources:
+# adding new columns and recoding them, 2 approaches:
+#    https://stackoverflow.com/questions/31150764/how-to-create-a-new-column-of-data-in-r-with-if-statements
+
+
 library(plyr)
 library(tidyverse)
 library(MASS)
@@ -181,5 +186,25 @@ HDLBoxPlot
 qqnorm(lipids$HDL)
 qqline(lipids$HDL)
 
-
+########### BIG SUMMARY ##############
 summary(lipids)
+
+
+lipids = read.csv("LIPIDS.csv",sep=",", na.strings=c("","NA")) 
+
+
+ 
+lipids$triglycerides_national_guidelines <- ifelse(lipids$Triglycerides<150, "0-Optimal", "1-Not Optimal")
+         
+
+lipids$triglycerides_tertiles <- ifelse(lipids$Triglycerides<=113, "1-Low Level [0-113]", 
+                                                    ifelse(lipids$Triglycerides<=183, "2-Medium Level [114-183]",
+                                                           ifelse(lipids$Triglycerides<=706, "3-High Level [184-706]", NA)))
+
+
+         
+
+
+
+
+
