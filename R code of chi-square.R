@@ -64,12 +64,15 @@ table1= table(lab$activ.religion,lab$Recode.marijuana)
 table1.1= addmargins (table1)
 print(table1.1)
 
-table1.2=prop.table(table1)
-print(table1.1)
+table1.2=prop.table(table1, 1)
+print(table1.2)
 library(MASS)
-chisq.test(table1)
+Xsq <- chisq.test(table1)
 library(vcd)
 assocstats(table1)
+
+Xsq$expected
+
 
 
 ### religion & cigarettes
@@ -79,7 +82,7 @@ table2= table(lab$activ.religion,lab$Recode.cigarettes)
 table2.1= addmargins (table2)
 print(table2.1)
 
-table2.2=prop.table(table2)
+table2.2=prop.table(table2, 1)
 print(table2.2)
 library(MASS)
 chisq.test(table2)
